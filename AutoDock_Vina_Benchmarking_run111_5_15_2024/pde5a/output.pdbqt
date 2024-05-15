@@ -1,0 +1,585 @@
+MODEL 1
+REMARK VINA RESULT:      -9.9      0.000      0.000
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\pde5a\pde5a-lig.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C3_3
+REMARK    2  A    between atoms: C3_3  and  C4_4
+REMARK    3  A    between atoms: C8_12  and  C10_15
+REMARK    4  A    between atoms: C12_17  and  S1_24
+REMARK    5  A    between atoms: C15_20  and  O2_21
+REMARK    6  A    between atoms: O2_21  and  C16_22
+REMARK    7  A    between atoms: S1_24  and  N5_27
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM     15  C10 VIA     1       0.526  64.380  84.797  0.00  0.00    +0.000 A 
+ATOM     16  C11 VIA     1       1.393  65.526  84.977  0.00  0.00    +0.000 A 
+ATOM     17  C12 VIA     1       1.668  66.064  86.308  0.00  0.00    +0.000 A 
+ATOM     18  C13 VIA     1       1.023  65.381  87.474  0.00  0.00    +0.000 A 
+ATOM     19  C14 VIA     1       0.146  64.226  87.314  0.00  0.00    +0.000 A 
+ATOM     20  C15 VIA     1      -0.131  63.696  85.965  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  15  12
+ATOM      4  C4  VIA     1      -0.054  64.904  79.855  0.00  0.00    +0.000 A 
+ATOM      5  N1  VIA     1      -0.265  63.917  78.883  0.00  0.00    +0.000 NA
+ATOM      6  N2  VIA     1      -0.291  62.695  79.488  0.00  0.00    +0.000 N 
+ATOM      7  C5  VIA     1      -0.496  61.447  78.748  0.00  0.00    +0.000 C 
+ATOM      8  C6  VIA     1      -0.098  62.900  80.831  0.00  0.00    +0.000 A 
+ATOM      9  C7  VIA     1      -0.023  62.025  81.967  0.00  0.00    +0.000 A 
+ATOM     10  O1  VIA     1      -0.132  60.823  81.885  0.00  0.00    +0.000 OA
+ATOM     11  N3  VIA     1       0.183  62.586  83.226  0.00  0.00    +0.000 NA
+ATOM     12  C8  VIA     1       0.327  63.962  83.453  0.00  0.00    +0.000 A 
+ATOM     13  N4  VIA     1       0.265  64.854  82.376  0.00  0.00    +0.000 NA
+ATOM     14  C9  VIA     1       0.052  64.296  81.083  0.00  0.00    +0.000 A 
+BRANCH   4   3
+ATOM      3  C3  VIA     1       0.043  66.370  79.580  0.00  0.00    +0.000 C 
+BRANCH   3   2
+ATOM      1  C1  VIA     1       2.037  67.551  80.638  0.00  0.00    +0.000 C 
+ATOM      2  C2  VIA     1       1.590  66.615  79.548  0.00  0.00    +0.000 C 
+ENDBRANCH   3   2
+ENDBRANCH   4   3
+ENDBRANCH  15  12
+BRANCH  17  24
+ATOM     24  S1  VIA     1       2.603  67.346  86.514  0.00  0.00    +0.000 S 
+ATOM     25  O3  VIA     1       2.831  68.079  85.440  0.00  0.00    +0.000 OA
+ATOM     26  O4  VIA     1       2.036  68.163  87.370  0.00  0.00    +0.000 OA
+BRANCH  24  27
+ATOM     27  N5  VIA     1       3.914  66.659  87.096  0.00  0.00    +0.000 NA
+ATOM     28  C18 VIA     1       5.178  67.600  87.184  0.00  0.00    +0.000 C 
+ATOM     29  C19 VIA     1       6.021  67.773  85.906  0.00  0.00    +0.000 C 
+ATOM     30  N6  VIA     1       6.181  66.552  85.046  0.00  0.00    +0.000 NA
+ATOM     31  C20 VIA     1       7.621  66.148  85.068  0.00  0.00    +0.000 C 
+ATOM     32  C21 VIA     1       5.308  65.325  85.320  0.00  0.00    +0.000 C 
+ATOM     33  C22 VIA     1       4.428  65.311  86.628  0.00  0.00    +0.000 C 
+ENDBRANCH  24  27
+ENDBRANCH  17  24
+BRANCH  20  21
+ATOM     21  O2  VIA     1      -1.004  62.572  85.701  0.00  0.00    +0.000 OA
+BRANCH  21  22
+ATOM     22  C16 VIA     1      -2.444  62.613  85.751  0.00  0.00    +0.000 C 
+ATOM     23  C17 VIA     1      -2.793  62.372  87.211  0.00  0.00    +0.000 C 
+ENDBRANCH  21  22
+ENDBRANCH  20  21
+TORSDOF 7
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -9.7      3.573      7.178
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\pde5a\pde5a-lig.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C3_3
+REMARK    2  A    between atoms: C3_3  and  C4_4
+REMARK    3  A    between atoms: C8_12  and  C10_15
+REMARK    4  A    between atoms: C12_17  and  S1_24
+REMARK    5  A    between atoms: C15_20  and  O2_21
+REMARK    6  A    between atoms: O2_21  and  C16_22
+REMARK    7  A    between atoms: S1_24  and  N5_27
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM     15  C10 VIA     1       1.655  66.267  83.636  0.00  0.00    +0.000 A 
+ATOM     16  C11 VIA     1       1.785  67.529  82.936  0.00  0.00    +0.000 A 
+ATOM     17  C12 VIA     1       1.048  67.788  81.701  0.00  0.00    +0.000 A 
+ATOM     18  C13 VIA     1       0.152  66.701  81.192  0.00  0.00    +0.000 A 
+ATOM     19  C14 VIA     1       0.008  65.423  81.881  0.00  0.00    +0.000 A 
+ATOM     20  C15 VIA     1       0.763  65.170  83.123  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  15  12
+ATOM      4  C4  VIA     1       2.648  66.445  88.537  0.00  0.00    +0.000 A 
+ATOM      5  N1  VIA     1       3.840  66.140  89.206  0.00  0.00    +0.000 NA
+ATOM      6  N2  VIA     1       4.776  65.751  88.292  0.00  0.00    +0.000 N 
+ATOM      7  C5  VIA     1       6.139  65.363  88.668  0.00  0.00    +0.000 C 
+ATOM      8  C6  VIA     1       4.186  65.807  87.055  0.00  0.00    +0.000 A 
+ATOM      9  C7  VIA     1       4.645  65.522  85.724  0.00  0.00    +0.000 A 
+ATOM     10  O1  VIA     1       5.765  65.140  85.478  0.00  0.00    +0.000 OA
+ATOM     11  N3  VIA     1       3.758  65.697  84.664  0.00  0.00    +0.000 NA
+ATOM     12  C8  VIA     1       2.434  66.133  84.817  0.00  0.00    +0.000 A 
+ATOM     13  N4  VIA     1       1.941  66.419  86.095  0.00  0.00    +0.000 NA
+ATOM     14  C9  VIA     1       2.836  66.248  87.190  0.00  0.00    +0.000 A 
+BRANCH   4   3
+ATOM      3  C3  VIA     1       1.387  66.903  89.198  0.00  0.00    +0.000 C 
+BRANCH   3   2
+ATOM      1  C1  VIA     1       0.603  69.271  88.683  0.00  0.00    +0.000 C 
+ATOM      2  C2  VIA     1       1.635  68.438  89.393  0.00  0.00    +0.000 C 
+ENDBRANCH   3   2
+ENDBRANCH   4   3
+ENDBRANCH  15  12
+BRANCH  17  24
+ATOM     24  S1  VIA     1       1.207  69.170  80.908  0.00  0.00    +0.000 S 
+ATOM     25  O3  VIA     1       1.513  69.074  79.627  0.00  0.00    +0.000 OA
+ATOM     26  O4  VIA     1       0.068  69.820  80.939  0.00  0.00    +0.000 OA
+BRANCH  24  27
+ATOM     27  N5  VIA     1       2.340  69.873  81.774  0.00  0.00    +0.000 NA
+ATOM     28  C18 VIA     1       1.986  71.324  82.285  0.00  0.00    +0.000 C 
+ATOM     29  C19 VIA     1       2.219  72.494  81.309  0.00  0.00    +0.000 C 
+ATOM     30  N6  VIA     1       3.434  72.394  80.432  0.00  0.00    +0.000 NA
+ATOM     31  C20 VIA     1       4.384  73.483  80.821  0.00  0.00    +0.000 C 
+ATOM     32  C21 VIA     1       4.193  71.067  80.355  0.00  0.00    +0.000 C 
+ATOM     33  C22 VIA     1       3.799  69.920  81.362  0.00  0.00    +0.000 C 
+ENDBRANCH  24  27
+ENDBRANCH  17  24
+BRANCH  20  21
+ATOM     21  O2  VIA     1       0.705  63.928  83.864  0.00  0.00    +0.000 OA
+BRANCH  21  22
+ATOM     22  C16 VIA     1      -0.469  63.411  84.523  0.00  0.00    +0.000 C 
+ATOM     23  C17 VIA     1      -0.175  63.543  86.008  0.00  0.00    +0.000 C 
+ENDBRANCH  21  22
+ENDBRANCH  20  21
+TORSDOF 7
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -9.6      3.554      7.344
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\pde5a\pde5a-lig.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C3_3
+REMARK    2  A    between atoms: C3_3  and  C4_4
+REMARK    3  A    between atoms: C8_12  and  C10_15
+REMARK    4  A    between atoms: C12_17  and  S1_24
+REMARK    5  A    between atoms: C15_20  and  O2_21
+REMARK    6  A    between atoms: O2_21  and  C16_22
+REMARK    7  A    between atoms: S1_24  and  N5_27
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM     15  C10 VIA     1       1.608  66.474  83.378  0.00  0.00    +0.000 A 
+ATOM     16  C11 VIA     1       1.676  67.699  82.608  0.00  0.00    +0.000 A 
+ATOM     17  C12 VIA     1       0.914  67.857  81.372  0.00  0.00    +0.000 A 
+ATOM     18  C13 VIA     1       0.057  66.708  80.937  0.00  0.00    +0.000 A 
+ATOM     19  C14 VIA     1      -0.024  65.466  81.699  0.00  0.00    +0.000 A 
+ATOM     20  C15 VIA     1       0.757  65.314  82.941  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  15  12
+ATOM      4  C4  VIA     1       5.741  65.771  86.111  0.00  0.00    +0.000 A 
+ATOM      5  N1  VIA     1       5.920  65.921  87.492  0.00  0.00    +0.000 NA
+ATOM      6  N2  VIA     1       4.740  66.318  88.053  0.00  0.00    +0.000 N 
+ATOM      7  C5  VIA     1       4.588  66.562  89.490  0.00  0.00    +0.000 C 
+ATOM      8  C6  VIA     1       3.821  66.421  87.040  0.00  0.00    +0.000 A 
+ATOM      9  C7  VIA     1       2.434  66.790  86.994  0.00  0.00    +0.000 A 
+ATOM     10  O1  VIA     1       1.800  67.104  87.974  0.00  0.00    +0.000 OA
+ATOM     11  N3  VIA     1       1.785  66.783  85.761  0.00  0.00    +0.000 NA
+ATOM     12  C8  VIA     1       2.408  66.439  84.553  0.00  0.00    +0.000 A 
+ATOM     13  N4  VIA     1       3.760  66.076  84.548  0.00  0.00    +0.000 NA
+ATOM     14  C9  VIA     1       4.437  66.076  85.800  0.00  0.00    +0.000 A 
+BRANCH   4   3
+ATOM      3  C3  VIA     1       6.807  65.355  85.149  0.00  0.00    +0.000 C 
+BRANCH   3   2
+ATOM      1  C1  VIA     1       8.706  67.016  84.797  0.00  0.00    +0.000 C 
+ATOM      2  C2  VIA     1       7.257  66.718  84.520  0.00  0.00    +0.000 C 
+ENDBRANCH   3   2
+ENDBRANCH   4   3
+ENDBRANCH  15  12
+BRANCH  17  24
+ATOM     24  S1  VIA     1       1.004  69.198  80.500  0.00  0.00    +0.000 S 
+ATOM     25  O3  VIA     1       1.784  69.149  79.437  0.00  0.00    +0.000 OA
+ATOM     26  O4  VIA     1      -0.187  69.494  80.036  0.00  0.00    +0.000 OA
+BRANCH  24  27
+ATOM     27  N5  VIA     1       1.507  70.227  81.603  0.00  0.00    +0.000 NA
+ATOM     28  C18 VIA     1       0.563  71.471  81.836  0.00  0.00    +0.000 C 
+ATOM     29  C19 VIA     1       0.714  72.664  80.872  0.00  0.00    +0.000 C 
+ATOM     30  N6  VIA     1       2.113  72.986  80.430  0.00  0.00    +0.000 NA
+ATOM     31  C20 VIA     1       2.485  74.323  80.987  0.00  0.00    +0.000 C 
+ATOM     32  C21 VIA     1       3.237  71.989  80.720  0.00  0.00    +0.000 C 
+ATOM     33  C22 VIA     1       2.925  70.763  81.660  0.00  0.00    +0.000 C 
+ENDBRANCH  24  27
+ENDBRANCH  17  24
+BRANCH  20  21
+ATOM     21  O2  VIA     1       0.761  64.114  83.751  0.00  0.00    +0.000 OA
+BRANCH  21  22
+ATOM     22  C16 VIA     1      -0.380  63.592  84.462  0.00  0.00    +0.000 C 
+ATOM     23  C17 VIA     1       0.001  63.676  85.931  0.00  0.00    +0.000 C 
+ENDBRANCH  21  22
+ENDBRANCH  20  21
+TORSDOF 7
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -9.6      2.815      7.880
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\pde5a\pde5a-lig.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C3_3
+REMARK    2  A    between atoms: C3_3  and  C4_4
+REMARK    3  A    between atoms: C8_12  and  C10_15
+REMARK    4  A    between atoms: C12_17  and  S1_24
+REMARK    5  A    between atoms: C15_20  and  O2_21
+REMARK    6  A    between atoms: O2_21  and  C16_22
+REMARK    7  A    between atoms: S1_24  and  N5_27
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM     15  C10 VIA     1       0.321  64.362  85.312  0.00  0.00    +0.000 A 
+ATOM     16  C11 VIA     1       0.025  64.257  83.898  0.00  0.00    +0.000 A 
+ATOM     17  C12 VIA     1      -1.093  63.446  83.419  0.00  0.00    +0.000 A 
+ATOM     18  C13 VIA     1      -1.919  62.735  84.446  0.00  0.00    +0.000 A 
+ATOM     19  C14 VIA     1      -1.636  62.827  85.875  0.00  0.00    +0.000 A 
+ATOM     20  C15 VIA     1      -0.500  63.642  86.347  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  15  12
+ATOM      4  C4  VIA     1       3.196  67.269  88.198  0.00  0.00    +0.000 A 
+ATOM      5  N1  VIA     1       4.415  67.887  87.890  0.00  0.00    +0.000 NA
+ATOM      6  N2  VIA     1       4.759  67.576  86.606  0.00  0.00    +0.000 N 
+ATOM      7  C5  VIA     1       5.985  68.068  85.972  0.00  0.00    +0.000 C 
+ATOM      8  C6  VIA     1       3.771  66.767  86.103  0.00  0.00    +0.000 A 
+ATOM      9  C7  VIA     1       3.565  66.124  84.836  0.00  0.00    +0.000 A 
+ATOM     10  O1  VIA     1       4.341  66.218  83.913  0.00  0.00    +0.000 OA
+ATOM     11  N3  VIA     1       2.416  65.357  84.658  0.00  0.00    +0.000 NA
+ATOM     12  C8  VIA     1       1.442  65.169  85.649  0.00  0.00    +0.000 A 
+ATOM     13  N4  VIA     1       1.601  65.773  86.902  0.00  0.00    +0.000 NA
+ATOM     14  C9  VIA     1       2.769  66.563  87.099  0.00  0.00    +0.000 A 
+BRANCH   4   3
+ATOM      3  C3  VIA     1       2.495  67.366  89.515  0.00  0.00    +0.000 C 
+BRANCH   3   2
+ATOM      1  C1  VIA     1       0.633  68.985  88.880  0.00  0.00    +0.000 C 
+ATOM      2  C2  VIA     1       1.985  68.848  89.527  0.00  0.00    +0.000 C 
+ENDBRANCH   3   2
+ENDBRANCH   4   3
+ENDBRANCH  15  12
+BRANCH  17  24
+ATOM     24  S1  VIA     1      -1.411  63.303  81.857  0.00  0.00    +0.000 S 
+ATOM     25  O3  VIA     1      -2.670  63.479  81.501  0.00  0.00    +0.000 OA
+ATOM     26  O4  VIA     1      -0.738  64.212  81.192  0.00  0.00    +0.000 OA
+BRANCH  24  27
+ATOM     27  N5  VIA     1      -0.882  61.828  81.587  0.00  0.00    +0.000 NA
+ATOM     28  C18 VIA     1       0.234  61.712  80.476  0.00  0.00    +0.000 C 
+ATOM     29  C19 VIA     1      -0.233  61.649  79.009  0.00  0.00    +0.000 C 
+ATOM     30  N6  VIA     1      -1.492  60.873  78.746  0.00  0.00    +0.000 NA
+ATOM     31  C20 VIA     1      -1.141  59.673  77.926  0.00  0.00    +0.000 C 
+ATOM     32  C21 VIA     1      -2.363  60.440  79.928  0.00  0.00    +0.000 C 
+ATOM     33  C22 VIA     1      -1.797  60.635  81.385  0.00  0.00    +0.000 C 
+ENDBRANCH  24  27
+ENDBRANCH  17  24
+BRANCH  20  21
+ATOM     21  O2  VIA     1      -0.126  63.777  87.738  0.00  0.00    +0.000 OA
+BRANCH  21  22
+ATOM     22  C16 VIA     1      -0.742  63.071  88.833  0.00  0.00    +0.000 C 
+ATOM     23  C17 VIA     1       0.309  62.079  89.302  0.00  0.00    +0.000 C 
+ENDBRANCH  21  22
+ENDBRANCH  20  21
+TORSDOF 7
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -9.6      3.413      7.171
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\pde5a\pde5a-lig.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C3_3
+REMARK    2  A    between atoms: C3_3  and  C4_4
+REMARK    3  A    between atoms: C8_12  and  C10_15
+REMARK    4  A    between atoms: C12_17  and  S1_24
+REMARK    5  A    between atoms: C15_20  and  O2_21
+REMARK    6  A    between atoms: O2_21  and  C16_22
+REMARK    7  A    between atoms: S1_24  and  N5_27
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM     15  C10 VIA     1       0.942  65.827  83.011  0.00  0.00    +0.000 A 
+ATOM     16  C11 VIA     1       1.145  67.115  82.380  0.00  0.00    +0.000 A 
+ATOM     17  C12 VIA     1       0.985  67.283  80.937  0.00  0.00    +0.000 A 
+ATOM     18  C13 VIA     1       0.599  66.075  80.141  0.00  0.00    +0.000 A 
+ATOM     19  C14 VIA     1       0.391  64.769  80.757  0.00  0.00    +0.000 A 
+ATOM     20  C15 VIA     1       0.564  64.609  82.214  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  15  12
+ATOM      4  C4  VIA     1       0.481  64.086  87.679  0.00  0.00    +0.000 A 
+ATOM      5  N1  VIA     1       1.010  64.604  88.869  0.00  0.00    +0.000 NA
+ATOM      6  N2  VIA     1       1.729  65.729  88.584  0.00  0.00    +0.000 N 
+ATOM      7  C5  VIA     1       2.414  66.515  89.614  0.00  0.00    +0.000 C 
+ATOM      8  C6  VIA     1       1.660  65.924  87.228  0.00  0.00    +0.000 A 
+ATOM      9  C7  VIA     1       2.201  66.915  86.340  0.00  0.00    +0.000 A 
+ATOM     10  O1  VIA     1       2.887  67.837  86.717  0.00  0.00    +0.000 OA
+ATOM     11  N3  VIA     1       1.922  66.812  84.979  0.00  0.00    +0.000 NA
+ATOM     12  C8  VIA     1       1.142  65.791  84.418  0.00  0.00    +0.000 A 
+ATOM     13  N4  VIA     1       0.596  64.801  85.243  0.00  0.00    +0.000 NA
+ATOM     14  C9  VIA     1       0.870  64.893  86.637  0.00  0.00    +0.000 A 
+BRANCH   4   3
+ATOM      3  C3  VIA     1      -0.360  62.855  87.580  0.00  0.00    +0.000 C 
+BRANCH   3   2
+ATOM      1  C1  VIA     1      -2.776  62.824  86.773  0.00  0.00    +0.000 C 
+ATOM      2  C2  VIA     1      -1.813  63.411  87.769  0.00  0.00    +0.000 C 
+ENDBRANCH   3   2
+ENDBRANCH   4   3
+ENDBRANCH  15  12
+BRANCH  17  24
+ATOM     24  S1  VIA     1       1.233  68.697  80.228  0.00  0.00    +0.000 S 
+ATOM     25  O3  VIA     1       1.930  68.671  79.107  0.00  0.00    +0.000 OA
+ATOM     26  O4  VIA     1       0.078  69.226  79.899  0.00  0.00    +0.000 OA
+BRANCH  24  27
+ATOM     27  N5  VIA     1       1.959  69.486  81.402  0.00  0.00    +0.000 NA
+ATOM     28  C18 VIA     1       1.293  70.864  81.791  0.00  0.00    +0.000 C 
+ATOM     29  C19 VIA     1       1.662  72.094  80.941  0.00  0.00    +0.000 C 
+ATOM     30  N6  VIA     1       3.088  72.173  80.473  0.00  0.00    +0.000 NA
+ATOM     31  C20 VIA     1       3.736  73.345  81.140  0.00  0.00    +0.000 C 
+ATOM     32  C21 VIA     1       3.992  70.947  80.620  0.00  0.00    +0.000 C 
+ATOM     33  C22 VIA     1       3.457  69.719  81.451  0.00  0.00    +0.000 C 
+ENDBRANCH  24  27
+ENDBRANCH  17  24
+BRANCH  20  21
+ATOM     21  O2  VIA     1       0.403  63.352  82.913  0.00  0.00    +0.000 OA
+BRANCH  21  22
+ATOM     22  C16 VIA     1      -0.086  62.132  82.321  0.00  0.00    +0.000 C 
+ATOM     23  C17 VIA     1       1.157  61.295  82.065  0.00  0.00    +0.000 C 
+ENDBRANCH  21  22
+ENDBRANCH  20  21
+TORSDOF 7
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -9.5      2.772      8.808
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\pde5a\pde5a-lig.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C3_3
+REMARK    2  A    between atoms: C3_3  and  C4_4
+REMARK    3  A    between atoms: C8_12  and  C10_15
+REMARK    4  A    between atoms: C12_17  and  S1_24
+REMARK    5  A    between atoms: C15_20  and  O2_21
+REMARK    6  A    between atoms: O2_21  and  C16_22
+REMARK    7  A    between atoms: S1_24  and  N5_27
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM     15  C10 VIA     1       0.728  65.284  82.840  0.00  0.00    +0.000 A 
+ATOM     16  C11 VIA     1       0.387  63.973  82.327  0.00  0.00    +0.000 A 
+ATOM     17  C12 VIA     1       0.147  63.758  80.902  0.00  0.00    +0.000 A 
+ATOM     18  C13 VIA     1       0.273  64.943  79.995  0.00  0.00    +0.000 A 
+ATOM     19  C14 VIA     1       0.614  66.272  80.491  0.00  0.00    +0.000 A 
+ATOM     20  C15 VIA     1       0.846  66.479  81.933  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  15  12
+ATOM      4  C4  VIA     1       0.294  63.910  87.631  0.00  0.00    +0.000 A 
+ATOM      5  N1  VIA     1       0.804  64.535  88.777  0.00  0.00    +0.000 NA
+ATOM      6  N2  VIA     1       1.494  65.652  88.404  0.00  0.00    +0.000 N 
+ATOM      7  C5  VIA     1       2.153  66.536  89.370  0.00  0.00    +0.000 C 
+ATOM      8  C6  VIA     1       1.425  65.737  87.037  0.00  0.00    +0.000 A 
+ATOM      9  C7  VIA     1       1.944  66.667  86.074  0.00  0.00    +0.000 A 
+ATOM     10  O1  VIA     1       2.603  67.635  86.377  0.00  0.00    +0.000 OA
+ATOM     11  N3  VIA     1       1.673  66.449  84.725  0.00  0.00    +0.000 NA
+ATOM     12  C8  VIA     1       0.922  65.366  84.245  0.00  0.00    +0.000 A 
+ATOM     13  N4  VIA     1       0.400  64.430  85.146  0.00  0.00    +0.000 NA
+ATOM     14  C9  VIA     1       0.666  64.641  86.528  0.00  0.00    +0.000 A 
+BRANCH   4   3
+ATOM      3  C3  VIA     1      -0.513  62.652  87.629  0.00  0.00    +0.000 C 
+BRANCH   3   2
+ATOM      1  C1  VIA     1      -2.788  62.831  86.495  0.00  0.00    +0.000 C 
+ATOM      2  C2  VIA     1      -1.985  63.184  87.718  0.00  0.00    +0.000 C 
+ENDBRANCH   3   2
+ENDBRANCH   4   3
+ENDBRANCH  15  12
+BRANCH  17  24
+ATOM     24  S1  VIA     1      -0.256  62.317  80.331  0.00  0.00    +0.000 S 
+ATOM     25  O3  VIA     1       0.698  61.404  80.329  0.00  0.00    +0.000 OA
+ATOM     26  O4  VIA     1      -1.213  61.810  81.071  0.00  0.00    +0.000 OA
+BRANCH  24  27
+ATOM     27  N5  VIA     1      -0.750  62.712  78.872  0.00  0.00    +0.000 NA
+ATOM     28  C18 VIA     1      -2.274  62.415  78.581  0.00  0.00    +0.000 C 
+ATOM     29  C19 VIA     1      -2.646  60.982  78.154  0.00  0.00    +0.000 C 
+ATOM     30  N6  VIA     1      -1.667  60.282  77.257  0.00  0.00    +0.000 NA
+ATOM     31  C20 VIA     1      -2.318  60.069  75.927  0.00  0.00    +0.000 C 
+ATOM     32  C21 VIA     1      -0.278  60.890  77.046  0.00  0.00    +0.000 C 
+ATOM     33  C22 VIA     1      -0.003  62.337  77.606  0.00  0.00    +0.000 C 
+ENDBRANCH  24  27
+ENDBRANCH  17  24
+BRANCH  20  21
+ATOM     21  O2  VIA     1       1.165  67.761  82.524  0.00  0.00    +0.000 OA
+BRANCH  21  22
+ATOM     22  C16 VIA     1       1.681  68.899  81.804  0.00  0.00    +0.000 C 
+ATOM     23  C17 VIA     1       0.483  69.812  81.605  0.00  0.00    +0.000 C 
+ENDBRANCH  21  22
+ENDBRANCH  20  21
+TORSDOF 7
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -9.5      3.027      8.666
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\pde5a\pde5a-lig.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C3_3
+REMARK    2  A    between atoms: C3_3  and  C4_4
+REMARK    3  A    between atoms: C8_12  and  C10_15
+REMARK    4  A    between atoms: C12_17  and  S1_24
+REMARK    5  A    between atoms: C15_20  and  O2_21
+REMARK    6  A    between atoms: O2_21  and  C16_22
+REMARK    7  A    between atoms: S1_24  and  N5_27
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM     15  C10 VIA     1       0.125  64.468  82.839  0.00  0.00    +0.000 A 
+ATOM     16  C11 VIA     1      -0.473  63.397  82.069  0.00  0.00    +0.000 A 
+ATOM     17  C12 VIA     1      -0.612  63.496  80.617  0.00  0.00    +0.000 A 
+ATOM     18  C13 VIA     1      -0.108  64.744  79.960  0.00  0.00    +0.000 A 
+ATOM     19  C14 VIA     1       0.497  65.835  80.718  0.00  0.00    +0.000 A 
+ATOM     20  C15 VIA     1       0.624  65.727  82.184  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  15  12
+ATOM      4  C4  VIA     1       1.205  65.537  87.606  0.00  0.00    +0.000 A 
+ATOM      5  N1  VIA     1       0.987  64.763  88.754  0.00  0.00    +0.000 NA
+ATOM      6  N2  VIA     1       0.392  63.589  88.393  0.00  0.00    +0.000 N 
+ATOM      7  C5  VIA     1       0.030  62.552  89.363  0.00  0.00    +0.000 C 
+ATOM      8  C6  VIA     1       0.232  63.615  87.030  0.00  0.00    +0.000 A 
+ATOM      9  C7  VIA     1      -0.322  62.693  86.079  0.00  0.00    +0.000 A 
+ATOM     10  O1  VIA     1      -0.788  61.621  86.391  0.00  0.00    +0.000 OA
+ATOM     11  N3  VIA     1      -0.320  63.046  84.732  0.00  0.00    +0.000 NA
+ATOM     12  C8  VIA     1       0.190  64.257  84.243  0.00  0.00    +0.000 A 
+ATOM     13  N4  VIA     1       0.737  65.190  85.132  0.00  0.00    +0.000 NA
+ATOM     14  C9  VIA     1       0.744  64.843  86.513  0.00  0.00    +0.000 A 
+BRANCH   4   3
+ATOM      3  C3  VIA     1       1.831  66.894  87.594  0.00  0.00    +0.000 C 
+BRANCH   3   2
+ATOM      1  C1  VIA     1       1.142  68.677  89.279  0.00  0.00    +0.000 C 
+ATOM      2  C2  VIA     1       1.766  67.319  89.101  0.00  0.00    +0.000 C 
+ENDBRANCH   3   2
+ENDBRANCH   4   3
+ENDBRANCH  15  12
+BRANCH  17  24
+ATOM     24  S1  VIA     1      -1.296  62.329  79.762  0.00  0.00    +0.000 S 
+ATOM     25  O3  VIA     1      -0.906  61.098  80.039  0.00  0.00    +0.000 OA
+ATOM     26  O4  VIA     1      -2.590  62.333  79.980  0.00  0.00    +0.000 OA
+BRANCH  24  27
+ATOM     27  N5  VIA     1      -0.920  62.791  78.288  0.00  0.00    +0.000 NA
+ATOM     28  C18 VIA     1      -2.152  63.073  77.342  0.00  0.00    +0.000 C 
+ATOM     29  C19 VIA     1      -2.793  61.863  76.635  0.00  0.00    +0.000 C 
+ATOM     30  N6  VIA     1      -1.850  60.791  76.168  0.00  0.00    +0.000 NA
+ATOM     31  C20 VIA     1      -1.880  60.759  74.673  0.00  0.00    +0.000 C 
+ATOM     32  C21 VIA     1      -0.395  60.817  76.643  0.00  0.00    +0.000 C 
+ATOM     33  C22 VIA     1       0.112  62.086  77.429  0.00  0.00    +0.000 C 
+ENDBRANCH  24  27
+ENDBRANCH  17  24
+BRANCH  20  21
+ATOM     21  O2  VIA     1       1.187  66.762  83.024  0.00  0.00    +0.000 OA
+BRANCH  21  22
+ATOM     22  C16 VIA     1       2.475  67.380  82.826  0.00  0.00    +0.000 C 
+ATOM     23  C17 VIA     1       2.734  68.165  84.101  0.00  0.00    +0.000 C 
+ENDBRANCH  21  22
+ENDBRANCH  20  21
+TORSDOF 7
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -9.5      1.642      2.812
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\pde5a\pde5a-lig.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C3_3
+REMARK    2  A    between atoms: C3_3  and  C4_4
+REMARK    3  A    between atoms: C8_12  and  C10_15
+REMARK    4  A    between atoms: C12_17  and  S1_24
+REMARK    5  A    between atoms: C15_20  and  O2_21
+REMARK    6  A    between atoms: O2_21  and  C16_22
+REMARK    7  A    between atoms: S1_24  and  N5_27
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM     15  C10 VIA     1       0.446  64.666  84.147  0.00  0.00    +0.000 A 
+ATOM     16  C11 VIA     1       1.301  65.785  84.484  0.00  0.00    +0.000 A 
+ATOM     17  C12 VIA     1       1.644  66.082  85.873  0.00  0.00    +0.000 A 
+ATOM     18  C13 VIA     1       1.082  65.183  86.930  0.00  0.00    +0.000 A 
+ATOM     19  C14 VIA     1       0.219  64.051  86.611  0.00  0.00    +0.000 A 
+ATOM     20  C15 VIA     1      -0.128  63.765  85.206  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  15  12
+ATOM      4  C4  VIA     1      -1.209  62.331  80.042  0.00  0.00    +0.000 A 
+ATOM      5  N1  VIA     1      -1.172  62.761  78.709  0.00  0.00    +0.000 NA
+ATOM      6  N2  VIA     1      -0.589  63.993  78.655  0.00  0.00    +0.000 N 
+ATOM      7  C5  VIA     1      -0.396  64.725  77.399  0.00  0.00    +0.000 C 
+ATOM      8  C6  VIA     1      -0.259  64.346  79.939  0.00  0.00    +0.000 A 
+ATOM      9  C7  VIA     1       0.365  65.501  80.521  0.00  0.00    +0.000 A 
+ATOM     10  O1  VIA     1       0.734  66.452  79.871  0.00  0.00    +0.000 OA
+ATOM     11  N3  VIA     1       0.558  65.528  81.900  0.00  0.00    +0.000 NA
+ATOM     12  C8  VIA     1       0.175  64.491  82.762  0.00  0.00    +0.000 A 
+ATOM     13  N4  VIA     1      -0.441  63.347  82.242  0.00  0.00    +0.000 NA
+ATOM     14  C9  VIA     1      -0.643  63.303  80.833  0.00  0.00    +0.000 A 
+BRANCH   4   3
+ATOM      3  C3  VIA     1      -1.781  61.031  80.508  0.00  0.00    +0.000 C 
+BRANCH   3   2
+ATOM      1  C1  VIA     1      -4.226  61.538  80.000  0.00  0.00    +0.000 C 
+ATOM      2  C2  VIA     1      -3.179  61.452  81.078  0.00  0.00    +0.000 C 
+ENDBRANCH   3   2
+ENDBRANCH   4   3
+ENDBRANCH  15  12
+BRANCH  17  24
+ATOM     24  S1  VIA     1       2.567  67.334  86.256  0.00  0.00    +0.000 S 
+ATOM     25  O3  VIA     1       2.825  68.186  85.282  0.00  0.00    +0.000 OA
+ATOM     26  O4  VIA     1       1.970  68.045  87.183  0.00  0.00    +0.000 OA
+BRANCH  24  27
+ATOM     27  N5  VIA     1       3.862  66.584  86.795  0.00  0.00    +0.000 NA
+ATOM     28  C18 VIA     1       5.075  67.526  87.161  0.00  0.00    +0.000 C 
+ATOM     29  C19 VIA     1       5.998  67.970  86.009  0.00  0.00    +0.000 C 
+ATOM     30  N6  VIA     1       6.271  66.945  84.945  0.00  0.00    +0.000 NA
+ATOM     31  C20 VIA     1       7.722  66.586  85.001  0.00  0.00    +0.000 C 
+ATOM     32  C21 VIA     1       5.435  65.663  84.910  0.00  0.00    +0.000 C 
+ATOM     33  C22 VIA     1       4.467  65.369  86.118  0.00  0.00    +0.000 C 
+ENDBRANCH  24  27
+ENDBRANCH  17  24
+BRANCH  20  21
+ATOM     21  O2  VIA     1      -0.995  62.682  84.792  0.00  0.00    +0.000 OA
+BRANCH  21  22
+ATOM     22  C16 VIA     1      -2.431  62.676  84.919  0.00  0.00    +0.000 C 
+ATOM     23  C17 VIA     1      -2.697  62.212  86.341  0.00  0.00    +0.000 C 
+ENDBRANCH  21  22
+ENDBRANCH  20  21
+TORSDOF 7
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -9.4      2.632      7.691
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\pde5a\pde5a-lig.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C3_3
+REMARK    2  A    between atoms: C3_3  and  C4_4
+REMARK    3  A    between atoms: C8_12  and  C10_15
+REMARK    4  A    between atoms: C12_17  and  S1_24
+REMARK    5  A    between atoms: C15_20  and  O2_21
+REMARK    6  A    between atoms: O2_21  and  C16_22
+REMARK    7  A    between atoms: S1_24  and  N5_27
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM     15  C10 VIA     1       0.330  64.327  85.220  0.00  0.00    +0.000 A 
+ATOM     16  C11 VIA     1       0.382  64.568  83.793  0.00  0.00    +0.000 A 
+ATOM     17  C12 VIA     1      -0.569  63.932  82.884  0.00  0.00    +0.000 A 
+ATOM     18  C13 VIA     1      -1.600  63.029  83.486  0.00  0.00    +0.000 A 
+ATOM     19  C14 VIA     1      -1.670  62.773  84.921  0.00  0.00    +0.000 A 
+ATOM     20  C15 VIA     1      -0.698  63.413  85.829  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  15  12
+ATOM      4  C4  VIA     1       4.706  66.568  86.152  0.00  0.00    +0.000 A 
+ATOM      5  N1  VIA     1       5.183  67.105  87.355  0.00  0.00    +0.000 NA
+ATOM      6  N2  VIA     1       4.235  66.937  88.323  0.00  0.00    +0.000 N 
+ATOM      7  C5  VIA     1       4.424  67.389  89.704  0.00  0.00    +0.000 C 
+ATOM      8  C6  VIA     1       3.167  66.301  87.743  0.00  0.00    +0.000 A 
+ATOM      9  C7  VIA     1       1.891  65.859  88.232  0.00  0.00    +0.000 A 
+ATOM     10  O1  VIA     1       1.534  66.009  89.377  0.00  0.00    +0.000 OA
+ATOM     11  N3  VIA     1       1.023  65.225  87.346  0.00  0.00    +0.000 NA
+ATOM     12  C8  VIA     1       1.319  64.993  85.995  0.00  0.00    +0.000 A 
+ATOM     13  N4  VIA     1       2.548  65.409  85.472  0.00  0.00    +0.000 NA
+ATOM     14  C9  VIA     1       3.448  66.057  86.365  0.00  0.00    +0.000 A 
+BRANCH   4   3
+ATOM      3  C3  VIA     1       5.454  66.567  84.858  0.00  0.00    +0.000 C 
+BRANCH   3   2
+ATOM      1  C1  VIA     1       7.927  65.955  84.803  0.00  0.00    +0.000 C 
+ATOM      2  C2  VIA     1       6.535  65.455  85.083  0.00  0.00    +0.000 C 
+ENDBRANCH   3   2
+ENDBRANCH   4   3
+ENDBRANCH  15  12
+BRANCH  17  24
+ATOM     24  S1  VIA     1      -0.501  64.172  81.302  0.00  0.00    +0.000 S 
+ATOM     25  O3  VIA     1      -1.352  65.052  80.810  0.00  0.00    +0.000 OA
+ATOM     26  O4  VIA     1       0.687  64.630  80.984  0.00  0.00    +0.000 OA
+BRANCH  24  27
+ATOM     27  N5  VIA     1      -0.751  62.692  80.774  0.00  0.00    +0.000 NA
+ATOM     28  C18 VIA     1       0.489  62.019  80.065  0.00  0.00    +0.000 C 
+ATOM     29  C19 VIA     1       0.718  62.349  78.578  0.00  0.00    +0.000 C 
+ATOM     30  N6  VIA     1      -0.515  62.488  77.732  0.00  0.00    +0.000 NA
+ATOM     31  C20 VIA     1      -0.528  61.374  76.733  0.00  0.00    +0.000 C 
+ATOM     32  C21 VIA     1      -1.883  62.570  78.413  0.00  0.00    +0.000 C 
+ATOM     33  C22 VIA     1      -1.966  62.289  79.961  0.00  0.00    +0.000 C 
+ENDBRANCH  24  27
+ENDBRANCH  17  24
+BRANCH  20  21
+ATOM     21  O2  VIA     1      -0.671  63.204  87.261  0.00  0.00    +0.000 OA
+BRANCH  21  22
+ATOM     22  C16 VIA     1      -0.558  61.921  87.907  0.00  0.00    +0.000 C 
+ATOM     23  C17 VIA     1       0.256  62.185  89.163  0.00  0.00    +0.000 C 
+ENDBRANCH  21  22
+ENDBRANCH  20  21
+TORSDOF 7
+ENDMDL

@@ -1,0 +1,14 @@
+receptor =  "\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\pgh2\receptor.pdbqt"
+ligand =    "\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\pgh2\ligand.pdbqt" 
+out =       "\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\pgh2\output.pdbqt"
+log =       "\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\pgh2\log.txt"
+
+center_x = 30
+center_y = -23
+center_z = -15
+
+size_x = 20
+size_y = 20
+size_z = 20
+
+exhaustiveness = 100

@@ -1,0 +1,14 @@
+receptor =  "\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\casp3\receptor.pdbqt"
+ligand =    "\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\casp3\ligand.pdbqt" 
+out =       "\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\casp3\output.pdbqt"
+log =       "\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\casp3\log.txt"
+
+center_x =  35
+center_y =  35
+center_z = 33
+
+size_x = 20
+size_y = 20
+size_z = 20
+
+exhaustiveness = 100

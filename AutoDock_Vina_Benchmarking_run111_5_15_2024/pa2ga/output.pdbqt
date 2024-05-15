@@ -1,0 +1,1179 @@
+MODEL 1
+REMARK VINA RESULT:      -9.3      0.000      0.000
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\pa2ga\pa2ga-lig.pdb
+REMARK  16 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C15_15  and  C16_16
+REMARK    2  A    between atoms: C15_15  and  C17_17
+REMARK    3  A    between atoms: C16_16  and  C18_18
+REMARK    4  A    between atoms: C17_17  and  C19_19
+REMARK    5  A    between atoms: C18_18  and  C21_21
+REMARK    6  A    between atoms: C19_19  and  C25_25
+REMARK    7  A    between atoms: C20_20  and  C22_22
+REMARK    8  A    between atoms: C20_20  and  C29_29
+REMARK    9  A    between atoms: C21_21  and  C30_30
+REMARK   10  A    between atoms: C22_22  and  C31_31
+REMARK   11  A    between atoms: C23_23  and  C26_26
+REMARK   12  A    between atoms: C23_23  and  C27_27
+REMARK   13  A    between atoms: C24_24  and  C29_29
+REMARK   14  A    between atoms: C24_24  and  S1_36
+REMARK   15  A    between atoms: C28_28  and  S1_36
+REMARK   16  A    between atoms: C29_29  and  N1_32
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM     29  C29 UNK     1     -38.631  66.683  31.174  0.00  0.00    +0.000 C 
+ATOM     71  H35 UNK     1     -39.538  66.122  30.905  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH  29  32
+ATOM     30  C30 UNK     1     -37.892  64.413  31.585  0.00  0.00    +0.000 C 
+ATOM     32  N1  UNK     1     -37.641  65.720  31.666  0.00  0.00    +0.000 N 
+ATOM     34  O2  UNK     1     -38.946  63.981  31.122  0.00  0.00    +0.000 OA
+ATOM     72  H36 UNK     1     -36.781  66.043  32.061  0.00  0.00    +0.000 HD
+BRANCH  30  21
+ATOM     21  C21 UNK     1     -36.837  63.451  32.112  0.00  0.00    +0.000 C 
+ATOM     63  H27 UNK     1     -37.163  63.092  33.100  0.00  0.00    +0.000 HD
+ATOM     64  H28 UNK     1     -35.884  63.995  32.191  0.00  0.00    +0.000 HD
+BRANCH  21  18
+ATOM     18  C18 UNK     1     -36.621  62.236  31.210  0.00  0.00    +0.000 C 
+ATOM     57  H21 UNK     1     -35.547  62.002  31.174  0.00  0.00    +0.000 HD
+ATOM     58  H22 UNK     1     -36.988  62.469  30.199  0.00  0.00    +0.000 HD
+BRANCH  18  16
+ATOM     16  C16 UNK     1     -37.368  61.037  31.738  0.00  0.00    +0.000 C 
+ATOM     53  H17 UNK     1     -36.830  60.120  31.453  0.00  0.00    +0.000 HD
+ATOM     54  H18 UNK     1     -38.381  61.023  31.308  0.00  0.00    +0.000 HD
+BRANCH  16  15
+ATOM     15  C15 UNK     1     -37.470  61.104  33.238  0.00  0.00    +0.000 C 
+ATOM     51  H15 UNK     1     -36.684  60.472  33.677  0.00  0.00    +0.000 HD
+ATOM     52  H16 UNK     1     -37.336  62.148  33.559  0.00  0.00    +0.000 HD
+BRANCH  15  17
+ATOM     17  C17 UNK     1     -38.811  60.616  33.712  0.00  0.00    +0.000 C 
+ATOM     55  H19 UNK     1     -39.170  59.827  33.035  0.00  0.00    +0.000 HD
+ATOM     56  H20 UNK     1     -38.711  60.212  34.730  0.00  0.00    +0.000 HD
+BRANCH  17  19
+ATOM     19  C19 UNK     1     -39.800  61.758  33.719  0.00  0.00    +0.000 C 
+ATOM     59  H23 UNK     1     -39.519  62.454  34.524  0.00  0.00    +0.000 HD
+ATOM     60  H24 UNK     1     -39.757  62.259  32.741  0.00  0.00    +0.000 HD
+BRANCH  19  25
+ATOM      1  C1  UNK     1     -43.780  60.431  34.488  0.00  0.00    +0.000 A 
+ATOM      3  C3  UNK     1     -42.841  59.549  33.990  0.00  0.00    +0.000 A 
+ATOM      4  C4  UNK     1     -43.430  61.768  34.720  0.00  0.00    +0.000 A 
+ATOM      7  C7  UNK     1     -41.549  59.997  33.720  0.00  0.00    +0.000 A 
+ATOM      8  C8  UNK     1     -42.139  62.201  34.451  0.00  0.00    +0.000 A 
+ATOM     25  C25 UNK     1     -41.189  61.316  33.953  0.00  0.00    +0.000 A 
+ATOM     37  H1  UNK     1     -44.783  60.092  34.698  0.00  0.00    +0.000 HD
+ATOM     39  H3  UNK     1     -43.107  58.517  33.811  0.00  0.00    +0.000 HD
+ATOM     40  H4  UNK     1     -44.164  62.459  35.108  0.00  0.00    +0.000 HD
+ATOM     43  H7  UNK     1     -40.818  59.307  33.326  0.00  0.00    +0.000 HD
+ATOM     44  H8  UNK     1     -41.871  63.232  34.630  0.00  0.00    +0.000 HD
+ENDBRANCH  19  25
+ENDBRANCH  17  19
+ENDBRANCH  15  17
+ENDBRANCH  16  15
+ENDBRANCH  18  16
+ENDBRANCH  21  18
+ENDBRANCH  30  21
+ENDBRANCH  29  32
+BRANCH  29  20
+ATOM     20  C20 UNK     1     -38.998  67.690  32.273  0.00  0.00    +0.000 C 
+ATOM     61  H25 UNK     1     -39.020  68.691  31.820  0.00  0.00    +0.000 HD
+ATOM     62  H26 UNK     1     -38.230  67.628  33.057  0.00  0.00    +0.000 HD
+BRANCH  20  22
+ATOM     22  C22 UNK     1     -40.346  67.443  32.922  0.00  0.00    +0.000 C 
+ATOM     65  H29 UNK     1     -40.785  68.414  33.195  0.00  0.00    +0.000 HD
+ATOM     66  H30 UNK     1     -40.990  66.921  32.200  0.00  0.00    +0.000 HD
+BRANCH  22  31
+ATOM     31  C31 UNK     1     -40.241  66.603  34.160  0.00  0.00    +0.000 C 
+ATOM     33  O1  UNK     1     -40.374  67.140  35.283  0.00  0.00    +0.000 OA
+ATOM     35  O3  UNK     1     -40.054  65.386  34.008  0.00  0.00    +0.000 OA
+ENDBRANCH  22  31
+ENDBRANCH  20  22
+ENDBRANCH  29  20
+BRANCH  29  24
+ATOM     24  C24 UNK     1     -38.151  67.401  29.892  0.00  0.00    +0.000 C 
+ATOM     69  H33 UNK     1     -37.074  67.591  30.013  0.00  0.00    +0.000 HD
+ATOM     70  H34 UNK     1     -38.354  66.724  29.049  0.00  0.00    +0.000 HD
+BRANCH  24  36
+ATOM     36  S1  UNK     1     -38.934  69.004  29.490  0.00  0.00    +0.000 S 
+BRANCH  36  28
+ATOM     11  C11 UNK     1     -36.851  71.503  27.325  0.00  0.00    +0.000 A 
+ATOM     12  C12 UNK     1     -35.443  70.850  29.153  0.00  0.00    +0.000 A 
+ATOM     13  C13 UNK     1     -37.854  70.701  27.805  0.00  0.00    +0.000 A 
+ATOM     14  C14 UNK     1     -36.466  70.037  29.639  0.00  0.00    +0.000 A 
+ATOM     27  C27 UNK     1     -35.629  71.587  27.983  0.00  0.00    +0.000 A 
+ATOM     28  C28 UNK     1     -37.665  69.973  28.958  0.00  0.00    +0.000 A 
+ATOM     47  H11 UNK     1     -37.012  72.076  26.424  0.00  0.00    +0.000 HD
+ATOM     48  H12 UNK     1     -34.505  70.910  29.685  0.00  0.00    +0.000 HD
+ATOM     49  H13 UNK     1     -38.796  70.640  27.279  0.00  0.00    +0.000 HD
+ATOM     50  H14 UNK     1     -36.321  69.460  30.540  0.00  0.00    +0.000 HD
+BRANCH  27  23
+ATOM     23  C23 UNK     1     -34.530  72.456  27.446  0.00  0.00    +0.000 C 
+ATOM     67  H31 UNK     1     -34.479  73.361  28.068  0.00  0.00    +0.000 HD
+ATOM     68  H32 UNK     1     -34.775  72.707  26.404  0.00  0.00    +0.000 HD
+BRANCH  23  26
+ATOM      2  C2  UNK     1     -30.689  70.558  27.570  0.00  0.00    +0.000 A 
+ATOM      5  C5  UNK     1     -30.932  71.668  28.346  0.00  0.00    +0.000 A 
+ATOM      6  C6  UNK     1     -31.674  70.067  26.735  0.00  0.00    +0.000 A 
+ATOM      9  C9  UNK     1     -32.163  72.290  28.288  0.00  0.00    +0.000 A 
+ATOM     10  C10 UNK     1     -32.907  70.691  26.681  0.00  0.00    +0.000 A 
+ATOM     26  C26 UNK     1     -33.169  71.807  27.458  0.00  0.00    +0.000 A 
+ATOM     38  H2  UNK     1     -29.727  70.070  27.613  0.00  0.00    +0.000 HD
+ATOM     41  H5  UNK     1     -30.162  72.052  28.998  0.00  0.00    +0.000 HD
+ATOM     42  H6  UNK     1     -31.482  69.196  26.126  0.00  0.00    +0.000 HD
+ATOM     45  H9  UNK     1     -32.347  73.163  28.896  0.00  0.00    +0.000 HD
+ATOM     46  H10 UNK     1     -33.674  70.305  26.026  0.00  0.00    +0.000 HD
+ENDBRANCH  23  26
+ENDBRANCH  27  23
+ENDBRANCH  36  28
+ENDBRANCH  24  36
+ENDBRANCH  29  24
+TORSDOF 16
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -9.2      2.055     11.075
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\pa2ga\pa2ga-lig.pdb
+REMARK  16 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C15_15  and  C16_16
+REMARK    2  A    between atoms: C15_15  and  C17_17
+REMARK    3  A    between atoms: C16_16  and  C18_18
+REMARK    4  A    between atoms: C17_17  and  C19_19
+REMARK    5  A    between atoms: C18_18  and  C21_21
+REMARK    6  A    between atoms: C19_19  and  C25_25
+REMARK    7  A    between atoms: C20_20  and  C22_22
+REMARK    8  A    between atoms: C20_20  and  C29_29
+REMARK    9  A    between atoms: C21_21  and  C30_30
+REMARK   10  A    between atoms: C22_22  and  C31_31
+REMARK   11  A    between atoms: C23_23  and  C26_26
+REMARK   12  A    between atoms: C23_23  and  C27_27
+REMARK   13  A    between atoms: C24_24  and  C29_29
+REMARK   14  A    between atoms: C24_24  and  S1_36
+REMARK   15  A    between atoms: C28_28  and  S1_36
+REMARK   16  A    between atoms: C29_29  and  N1_32
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM     29  C29 UNK     1     -38.552  66.844  31.513  0.00  0.00    +0.000 C 
+ATOM     71  H35 UNK     1     -38.055  66.893  32.493  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH  29  32
+ATOM     30  C30 UNK     1     -37.151  68.758  31.021  0.00  0.00    +0.000 C 
+ATOM     32  N1  UNK     1     -37.778  67.668  30.579  0.00  0.00    +0.000 N 
+ATOM     34  O2  UNK     1     -37.214  69.112  32.196  0.00  0.00    +0.000 OA
+ATOM     72  H36 UNK     1     -37.721  67.412  29.614  0.00  0.00    +0.000 HD
+BRANCH  30  21
+ATOM     21  C21 UNK     1     -36.363  69.585  30.015  0.00  0.00    +0.000 C 
+ATOM     63  H27 UNK     1     -37.076  70.035  29.307  0.00  0.00    +0.000 HD
+ATOM     64  H28 UNK     1     -35.665  68.915  29.490  0.00  0.00    +0.000 HD
+BRANCH  21  18
+ATOM     18  C18 UNK     1     -35.553  70.711  30.658  0.00  0.00    +0.000 C 
+ATOM     57  H21 UNK     1     -35.141  70.355  31.615  0.00  0.00    +0.000 HD
+ATOM     58  H22 UNK     1     -36.213  71.573  30.833  0.00  0.00    +0.000 HD
+BRANCH  18  16
+ATOM     16  C16 UNK     1     -34.418  71.134  29.760  0.00  0.00    +0.000 C 
+ATOM     53  H17 UNK     1     -33.612  70.388  29.820  0.00  0.00    +0.000 HD
+ATOM     54  H18 UNK     1     -34.043  72.115  30.090  0.00  0.00    +0.000 HD
+BRANCH  16  15
+ATOM     15  C15 UNK     1     -34.890  71.238  28.336  0.00  0.00    +0.000 C 
+ATOM     51  H15 UNK     1     -34.051  71.004  27.664  0.00  0.00    +0.000 HD
+ATOM     52  H16 UNK     1     -35.710  70.522  28.177  0.00  0.00    +0.000 HD
+BRANCH  15  17
+ATOM     17  C17 UNK     1     -35.387  72.624  28.031  0.00  0.00    +0.000 C 
+ATOM     55  H19 UNK     1     -35.607  73.147  28.973  0.00  0.00    +0.000 HD
+ATOM     56  H20 UNK     1     -34.613  73.174  27.475  0.00  0.00    +0.000 HD
+BRANCH  17  19
+ATOM     19  C19 UNK     1     -36.644  72.547  27.195  0.00  0.00    +0.000 C 
+ATOM     59  H23 UNK     1     -36.932  73.570  26.910  0.00  0.00    +0.000 HD
+ATOM     60  H24 UNK     1     -36.429  71.942  26.303  0.00  0.00    +0.000 HD
+BRANCH  19  25
+ATOM      1  C1  UNK     1     -39.982  70.838  29.227  0.00  0.00    +0.000 A 
+ATOM      3  C3  UNK     1     -39.381  71.979  29.723  0.00  0.00    +0.000 A 
+ATOM      4  C4  UNK     1     -39.481  70.231  28.068  0.00  0.00    +0.000 A 
+ATOM      7  C7  UNK     1     -38.277  72.518  29.065  0.00  0.00    +0.000 A 
+ATOM      8  C8  UNK     1     -38.383  70.778  27.420  0.00  0.00    +0.000 A 
+ATOM     25  C25 UNK     1     -37.776  71.929  27.913  0.00  0.00    +0.000 A 
+ATOM     37  H1  UNK     1     -40.837  70.415  29.732  0.00  0.00    +0.000 HD
+ATOM     39  H3  UNK     1     -39.765  72.452  30.615  0.00  0.00    +0.000 HD
+ATOM     40  H4  UNK     1     -39.949  69.338  27.681  0.00  0.00    +0.000 HD
+ATOM     43  H7  UNK     1     -37.804  73.406  29.457  0.00  0.00    +0.000 HD
+ATOM     44  H8  UNK     1     -37.997  70.308  26.527  0.00  0.00    +0.000 HD
+ENDBRANCH  19  25
+ENDBRANCH  17  19
+ENDBRANCH  15  17
+ENDBRANCH  16  15
+ENDBRANCH  18  16
+ENDBRANCH  21  18
+ENDBRANCH  30  21
+ENDBRANCH  29  32
+BRANCH  29  20
+ATOM     20  C20 UNK     1     -39.975  67.397  31.669  0.00  0.00    +0.000 C 
+ATOM     61  H25 UNK     1     -40.680  66.592  31.413  0.00  0.00    +0.000 HD
+ATOM     62  H26 UNK     1     -40.083  68.249  30.983  0.00  0.00    +0.000 HD
+BRANCH  20  22
+ATOM     22  C22 UNK     1     -40.308  67.879  33.067  0.00  0.00    +0.000 C 
+ATOM     65  H29 UNK     1     -39.423  68.383  33.483  0.00  0.00    +0.000 HD
+ATOM     66  H30 UNK     1     -41.153  68.580  33.002  0.00  0.00    +0.000 HD
+BRANCH  22  31
+ATOM     31  C31 UNK     1     -40.691  66.757  33.985  0.00  0.00    +0.000 C 
+ATOM     33  O1  UNK     1     -40.261  66.746  35.160  0.00  0.00    +0.000 OA
+ATOM     35  O3  UNK     1     -41.458  65.890  33.535  0.00  0.00    +0.000 OA
+ENDBRANCH  22  31
+ENDBRANCH  20  22
+ENDBRANCH  29  20
+BRANCH  29  24
+ATOM     24  C24 UNK     1     -38.570  65.356  31.092  0.00  0.00    +0.000 C 
+ATOM     69  H33 UNK     1     -39.494  64.918  31.499  0.00  0.00    +0.000 HD
+ATOM     70  H34 UNK     1     -38.556  65.333  29.993  0.00  0.00    +0.000 HD
+BRANCH  24  36
+ATOM     36  S1  UNK     1     -37.184  64.311  31.667  0.00  0.00    +0.000 S 
+BRANCH  36  28
+ATOM     11  C11 UNK     1     -39.546  62.364  34.098  0.00  0.00    +0.000 A 
+ATOM     12  C12 UNK     1     -38.195  60.716  32.997  0.00  0.00    +0.000 A 
+ATOM     13  C13 UNK     1     -38.913  63.358  33.396  0.00  0.00    +0.000 A 
+ATOM     14  C14 UNK     1     -37.555  61.730  32.285  0.00  0.00    +0.000 A 
+ATOM     27  C27 UNK     1     -39.195  61.031  33.918  0.00  0.00    +0.000 A 
+ATOM     28  C28 UNK     1     -37.925  63.044  32.492  0.00  0.00    +0.000 A 
+ATOM     47  H11 UNK     1     -40.325  62.621  34.800  0.00  0.00    +0.000 HD
+ATOM     48  H12 UNK     1     -37.916  59.686  32.835  0.00  0.00    +0.000 HD
+ATOM     49  H13 UNK     1     -39.192  64.390  33.553  0.00  0.00    +0.000 HD
+ATOM     50  H14 UNK     1     -36.776  61.489  31.577  0.00  0.00    +0.000 HD
+BRANCH  27  23
+ATOM     23  C23 UNK     1     -39.881  59.948  34.698  0.00  0.00    +0.000 C 
+ATOM     67  H31 UNK     1     -39.475  59.958  35.720  0.00  0.00    +0.000 HD
+ATOM     68  H32 UNK     1     -39.673  58.990  34.201  0.00  0.00    +0.000 HD
+BRANCH  23  26
+ATOM      2  C2  UNK     1     -44.123  60.508  34.956  0.00  0.00    +0.000 A 
+ATOM      5  C5  UNK     1     -43.342  60.641  36.082  0.00  0.00    +0.000 A 
+ATOM      6  C6  UNK     1     -43.544  60.173  33.748  0.00  0.00    +0.000 A 
+ATOM      9  C9  UNK     1     -41.980  60.439  36.001  0.00  0.00    +0.000 A 
+ATOM     10  C10 UNK     1     -42.177  59.973  33.669  0.00  0.00    +0.000 A 
+ATOM     26  C26 UNK     1     -41.378  60.107  34.792  0.00  0.00    +0.000 A 
+ATOM     38  H2  UNK     1     -45.189  60.665  35.018  0.00  0.00    +0.000 HD
+ATOM     41  H5  UNK     1     -43.795  60.902  37.028  0.00  0.00    +0.000 HD
+ATOM     42  H6  UNK     1     -44.157  60.068  32.865  0.00  0.00    +0.000 HD
+ATOM     45  H9  UNK     1     -41.372  60.541  36.888  0.00  0.00    +0.000 HD
+ATOM     46  H10 UNK     1     -41.729  59.710  32.722  0.00  0.00    +0.000 HD
+ENDBRANCH  23  26
+ENDBRANCH  27  23
+ENDBRANCH  36  28
+ENDBRANCH  24  36
+ENDBRANCH  29  24
+TORSDOF 16
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -9.2      3.268      8.682
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\pa2ga\pa2ga-lig.pdb
+REMARK  16 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C15_15  and  C16_16
+REMARK    2  A    between atoms: C15_15  and  C17_17
+REMARK    3  A    between atoms: C16_16  and  C18_18
+REMARK    4  A    between atoms: C17_17  and  C19_19
+REMARK    5  A    between atoms: C18_18  and  C21_21
+REMARK    6  A    between atoms: C19_19  and  C25_25
+REMARK    7  A    between atoms: C20_20  and  C22_22
+REMARK    8  A    between atoms: C20_20  and  C29_29
+REMARK    9  A    between atoms: C21_21  and  C30_30
+REMARK   10  A    between atoms: C22_22  and  C31_31
+REMARK   11  A    between atoms: C23_23  and  C26_26
+REMARK   12  A    between atoms: C23_23  and  C27_27
+REMARK   13  A    between atoms: C24_24  and  C29_29
+REMARK   14  A    between atoms: C24_24  and  S1_36
+REMARK   15  A    between atoms: C28_28  and  S1_36
+REMARK   16  A    between atoms: C29_29  and  N1_32
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM     29  C29 UNK     1     -38.367  66.041  30.690  0.00  0.00    +0.000 C 
+ATOM     71  H35 UNK     1     -38.336  66.470  31.703  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH  29  32
+ATOM     30  C30 UNK     1     -37.306  64.178  31.819  0.00  0.00    +0.000 C 
+ATOM     32  N1  UNK     1     -37.513  64.849  30.686  0.00  0.00    +0.000 N 
+ATOM     34  O2  UNK     1     -37.798  64.539  32.887  0.00  0.00    +0.000 OA
+ATOM     72  H36 UNK     1     -37.088  64.540  29.835  0.00  0.00    +0.000 HD
+BRANCH  30  21
+ATOM     21  C21 UNK     1     -36.408  62.951  31.767  0.00  0.00    +0.000 C 
+ATOM     63  H27 UNK     1     -35.684  63.019  32.593  0.00  0.00    +0.000 HD
+ATOM     64  H28 UNK     1     -35.891  62.943  30.796  0.00  0.00    +0.000 HD
+BRANCH  21  18
+ATOM     18  C18 UNK     1     -37.173  61.635  31.912  0.00  0.00    +0.000 C 
+ATOM     57  H21 UNK     1     -36.777  60.908  31.187  0.00  0.00    +0.000 HD
+ATOM     58  H22 UNK     1     -38.240  61.816  31.715  0.00  0.00    +0.000 HD
+BRANCH  18  16
+ATOM     16  C16 UNK     1     -37.019  61.076  33.304  0.00  0.00    +0.000 C 
+ATOM     53  H17 UNK     1     -36.168  61.568  33.799  0.00  0.00    +0.000 HD
+ATOM     54  H18 UNK     1     -36.837  59.992  33.241  0.00  0.00    +0.000 HD
+BRANCH  16  15
+ATOM     15  C15 UNK     1     -38.266  61.322  34.107  0.00  0.00    +0.000 C 
+ATOM     51  H15 UNK     1     -38.004  61.348  35.175  0.00  0.00    +0.000 HD
+ATOM     52  H16 UNK     1     -38.703  62.285  33.804  0.00  0.00    +0.000 HD
+BRANCH  15  17
+ATOM     17  C17 UNK     1     -39.279  60.234  33.880  0.00  0.00    +0.000 C 
+ATOM     55  H19 UNK     1     -39.976  60.546  33.087  0.00  0.00    +0.000 HD
+ATOM     56  H20 UNK     1     -38.761  59.312  33.576  0.00  0.00    +0.000 HD
+BRANCH  17  19
+ATOM     19  C19 UNK     1     -40.053  59.977  35.152  0.00  0.00    +0.000 C 
+ATOM     59  H23 UNK     1     -39.918  58.922  35.432  0.00  0.00    +0.000 HD
+ATOM     60  H24 UNK     1     -39.657  60.639  35.937  0.00  0.00    +0.000 HD
+BRANCH  19  25
+ATOM      1  C1  UNK     1     -44.212  60.841  34.768  0.00  0.00    +0.000 A 
+ATOM      3  C3  UNK     1     -43.644  60.718  36.022  0.00  0.00    +0.000 A 
+ATOM      4  C4  UNK     1     -43.425  60.661  33.623  0.00  0.00    +0.000 A 
+ATOM      7  C7  UNK     1     -42.289  60.414  36.137  0.00  0.00    +0.000 A 
+ATOM      8  C8  UNK     1     -42.076  60.361  33.751  0.00  0.00    +0.000 A 
+ATOM     25  C25 UNK     1     -41.499  60.240  35.011  0.00  0.00    +0.000 A 
+ATOM     37  H1  UNK     1     -45.261  61.076  34.671  0.00  0.00    +0.000 HD
+ATOM     39  H3  UNK     1     -44.247  60.858  36.907  0.00  0.00    +0.000 HD
+ATOM     40  H4  UNK     1     -43.868  60.755  32.642  0.00  0.00    +0.000 HD
+ATOM     43  H7  UNK     1     -41.848  60.312  37.118  0.00  0.00    +0.000 HD
+ATOM     44  H8  UNK     1     -41.471  60.221  32.868  0.00  0.00    +0.000 HD
+ENDBRANCH  19  25
+ENDBRANCH  17  19
+ENDBRANCH  15  17
+ENDBRANCH  16  15
+ENDBRANCH  18  16
+ENDBRANCH  21  18
+ENDBRANCH  30  21
+ENDBRANCH  29  32
+BRANCH  29  20
+ATOM     20  C20 UNK     1     -37.835  67.091  29.707  0.00  0.00    +0.000 C 
+ATOM     61  H25 UNK     1     -38.315  66.916  28.733  0.00  0.00    +0.000 HD
+ATOM     62  H26 UNK     1     -36.744  66.966  29.638  0.00  0.00    +0.000 HD
+BRANCH  20  22
+ATOM     22  C22 UNK     1     -38.114  68.525  30.113  0.00  0.00    +0.000 C 
+ATOM     65  H29 UNK     1     -38.538  69.056  29.248  0.00  0.00    +0.000 HD
+ATOM     66  H30 UNK     1     -38.830  68.518  30.948  0.00  0.00    +0.000 HD
+BRANCH  22  31
+ATOM     31  C31 UNK     1     -36.876  69.247  30.554  0.00  0.00    +0.000 C 
+ATOM     33  O1  UNK     1     -36.278  69.996  29.748  0.00  0.00    +0.000 OA
+ATOM     35  O3  UNK     1     -36.512  69.089  31.730  0.00  0.00    +0.000 OA
+ENDBRANCH  22  31
+ENDBRANCH  20  22
+ENDBRANCH  29  20
+BRANCH  29  24
+ATOM     24  C24 UNK     1     -39.845  65.693  30.396  0.00  0.00    +0.000 C 
+ATOM     69  H33 UNK     1     -40.047  66.000  29.359  0.00  0.00    +0.000 HD
+ATOM     70  H34 UNK     1     -39.952  64.607  30.529  0.00  0.00    +0.000 HD
+BRANCH  24  36
+ATOM     36  S1  UNK     1     -41.113  66.488  31.446  0.00  0.00    +0.000 S 
+BRANCH  36  28
+ATOM     11  C11 UNK     1     -40.982  63.768  34.250  0.00  0.00    +0.000 A 
+ATOM     12  C12 UNK     1     -40.462  65.858  35.305  0.00  0.00    +0.000 A 
+ATOM     13  C13 UNK     1     -41.118  64.406  33.043  0.00  0.00    +0.000 A 
+ATOM     14  C14 UNK     1     -40.600  66.502  34.076  0.00  0.00    +0.000 A 
+ATOM     27  C27 UNK     1     -40.660  64.480  35.399  0.00  0.00    +0.000 A 
+ATOM     28  C28 UNK     1     -40.926  65.766  32.955  0.00  0.00    +0.000 A 
+ATOM     47  H11 UNK     1     -41.128  62.700  34.307  0.00  0.00    +0.000 HD
+ATOM     48  H12 UNK     1     -40.200  66.427  36.185  0.00  0.00    +0.000 HD
+ATOM     49  H13 UNK     1     -41.376  63.840  32.160  0.00  0.00    +0.000 HD
+ATOM     50  H14 UNK     1     -40.454  67.570  34.003  0.00  0.00    +0.000 HD
+BRANCH  27  23
+ATOM     23  C23 UNK     1     -40.525  63.780  36.720  0.00  0.00    +0.000 C 
+ATOM     67  H31 UNK     1     -39.824  64.358  37.340  0.00  0.00    +0.000 HD
+ATOM     68  H32 UNK     1     -40.139  62.767  36.529  0.00  0.00    +0.000 HD
+BRANCH  23  26
+ATOM      2  C2  UNK     1     -44.177  63.490  38.945  0.00  0.00    +0.000 A 
+ATOM      5  C5  UNK     1     -43.007  62.999  39.478  0.00  0.00    +0.000 A 
+ATOM      6  C6  UNK     1     -44.180  64.057  37.685  0.00  0.00    +0.000 A 
+ATOM      9  C9  UNK     1     -41.837  63.074  38.750  0.00  0.00    +0.000 A 
+ATOM     10  C10 UNK     1     -43.005  64.133  36.959  0.00  0.00    +0.000 A 
+ATOM     26  C26 UNK     1     -41.819  63.646  37.483  0.00  0.00    +0.000 A 
+ATOM     38  H2  UNK     1     -45.094  63.433  39.512  0.00  0.00    +0.000 HD
+ATOM     41  H5  UNK     1     -43.004  62.555  40.462  0.00  0.00    +0.000 HD
+ATOM     42  H6  UNK     1     -45.099  64.442  37.268  0.00  0.00    +0.000 HD
+ATOM     45  H9  UNK     1     -40.922  62.684  39.171  0.00  0.00    +0.000 HD
+ATOM     46  H10 UNK     1     -43.012  64.575  35.974  0.00  0.00    +0.000 HD
+ENDBRANCH  23  26
+ENDBRANCH  27  23
+ENDBRANCH  36  28
+ENDBRANCH  24  36
+ENDBRANCH  29  24
+TORSDOF 16
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -9.2      1.339      1.966
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\pa2ga\pa2ga-lig.pdb
+REMARK  16 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C15_15  and  C16_16
+REMARK    2  A    between atoms: C15_15  and  C17_17
+REMARK    3  A    between atoms: C16_16  and  C18_18
+REMARK    4  A    between atoms: C17_17  and  C19_19
+REMARK    5  A    between atoms: C18_18  and  C21_21
+REMARK    6  A    between atoms: C19_19  and  C25_25
+REMARK    7  A    between atoms: C20_20  and  C22_22
+REMARK    8  A    between atoms: C20_20  and  C29_29
+REMARK    9  A    between atoms: C21_21  and  C30_30
+REMARK   10  A    between atoms: C22_22  and  C31_31
+REMARK   11  A    between atoms: C23_23  and  C26_26
+REMARK   12  A    between atoms: C23_23  and  C27_27
+REMARK   13  A    between atoms: C24_24  and  C29_29
+REMARK   14  A    between atoms: C24_24  and  S1_36
+REMARK   15  A    between atoms: C28_28  and  S1_36
+REMARK   16  A    between atoms: C29_29  and  N1_32
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM     29  C29 UNK     1     -39.337  65.943  32.501  0.00  0.00    +0.000 C 
+ATOM     71  H35 UNK     1     -40.035  65.491  31.781  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH  29  32
+ATOM     30  C30 UNK     1     -38.052  64.029  31.756  0.00  0.00    +0.000 C 
+ATOM     32  N1  UNK     1     -38.125  65.117  32.521  0.00  0.00    +0.000 N 
+ATOM     34  O2  UNK     1     -38.985  63.676  31.037  0.00  0.00    +0.000 OA
+ATOM     72  H36 UNK     1     -37.355  65.371  33.107  0.00  0.00    +0.000 HD
+BRANCH  30  21
+ATOM     21  C21 UNK     1     -36.777  63.200  31.813  0.00  0.00    +0.000 C 
+ATOM     63  H27 UNK     1     -36.263  63.425  32.760  0.00  0.00    +0.000 HD
+ATOM     64  H28 UNK     1     -36.147  63.478  30.954  0.00  0.00    +0.000 HD
+BRANCH  21  18
+ATOM     18  C18 UNK     1     -37.030  61.694  31.753  0.00  0.00    +0.000 C 
+ATOM     57  H21 UNK     1     -36.207  61.213  31.203  0.00  0.00    +0.000 HD
+ATOM     58  H22 UNK     1     -37.984  61.510  31.235  0.00  0.00    +0.000 HD
+BRANCH  18  16
+ATOM     16  C16 UNK     1     -37.104  61.107  33.140  0.00  0.00    +0.000 C 
+ATOM     53  H17 UNK     1     -37.017  61.917  33.880  0.00  0.00    +0.000 HD
+ATOM     54  H18 UNK     1     -36.279  60.391  33.274  0.00  0.00    +0.000 HD
+BRANCH  16  15
+ATOM     15  C15 UNK     1     -38.414  60.396  33.339  0.00  0.00    +0.000 C 
+ATOM     51  H15 UNK     1     -39.031  60.525  32.437  0.00  0.00    +0.000 HD
+ATOM     52  H16 UNK     1     -38.218  59.327  33.509  0.00  0.00    +0.000 HD
+BRANCH  15  17
+ATOM     17  C17 UNK     1     -39.157  60.950  34.523  0.00  0.00    +0.000 C 
+ATOM     55  H19 UNK     1     -38.434  61.323  35.264  0.00  0.00    +0.000 HD
+ATOM     56  H20 UNK     1     -39.805  61.775  34.191  0.00  0.00    +0.000 HD
+BRANCH  17  19
+ATOM     19  C19 UNK     1     -40.004  59.868  35.151  0.00  0.00    +0.000 C 
+ATOM     59  H23 UNK     1     -39.769  58.914  34.656  0.00  0.00    +0.000 HD
+ATOM     60  H24 UNK     1     -39.762  59.818  36.223  0.00  0.00    +0.000 HD
+BRANCH  19  25
+ATOM      1  C1  UNK     1     -44.169  60.698  34.757  0.00  0.00    +0.000 A 
+ATOM      3  C3  UNK     1     -43.554  60.815  35.989  0.00  0.00    +0.000 A 
+ATOM      4  C4  UNK     1     -43.428  60.286  33.642  0.00  0.00    +0.000 A 
+ATOM      7  C7  UNK     1     -42.197  60.519  36.112  0.00  0.00    +0.000 A 
+ATOM      8  C8  UNK     1     -42.077  59.998  33.777  0.00  0.00    +0.000 A 
+ATOM     25  C25 UNK     1     -41.453  60.117  35.014  0.00  0.00    +0.000 A 
+ATOM     37  H1  UNK     1     -45.220  60.924  34.654  0.00  0.00    +0.000 HD
+ATOM     39  H3  UNK     1     -44.121  61.133  36.851  0.00  0.00    +0.000 HD
+ATOM     40  H4  UNK     1     -43.909  60.193  32.679  0.00  0.00    +0.000 HD
+ATOM     43  H7  UNK     1     -41.719  60.605  37.077  0.00  0.00    +0.000 HD
+ATOM     44  H8  UNK     1     -41.508  59.680  32.916  0.00  0.00    +0.000 HD
+ENDBRANCH  19  25
+ENDBRANCH  17  19
+ENDBRANCH  15  17
+ENDBRANCH  16  15
+ENDBRANCH  18  16
+ENDBRANCH  21  18
+ENDBRANCH  30  21
+ENDBRANCH  29  32
+BRANCH  29  20
+ATOM     20  C20 UNK     1     -40.007  65.950  33.881  0.00  0.00    +0.000 C 
+ATOM     61  H25 UNK     1     -41.041  66.303  33.752  0.00  0.00    +0.000 HD
+ATOM     62  H26 UNK     1     -39.437  66.630  34.530  0.00  0.00    +0.000 HD
+BRANCH  20  22
+ATOM     22  C22 UNK     1     -40.060  64.594  34.558  0.00  0.00    +0.000 C 
+ATOM     65  H29 UNK     1     -39.228  63.983  34.180  0.00  0.00    +0.000 HD
+ATOM     66  H30 UNK     1     -39.965  64.743  35.643  0.00  0.00    +0.000 HD
+BRANCH  22  31
+ATOM     31  C31 UNK     1     -41.344  63.869  34.288  0.00  0.00    +0.000 C 
+ATOM     33  O1  UNK     1     -42.271  63.919  35.128  0.00  0.00    +0.000 OA
+ATOM     35  O3  UNK     1     -41.441  63.265  33.207  0.00  0.00    +0.000 OA
+ENDBRANCH  22  31
+ENDBRANCH  20  22
+ENDBRANCH  29  20
+BRANCH  29  24
+ATOM     24  C24 UNK     1     -39.049  67.379  32.007  0.00  0.00    +0.000 C 
+ATOM     69  H33 UNK     1     -39.833  68.027  32.428  0.00  0.00    +0.000 HD
+ATOM     70  H34 UNK     1     -38.051  67.653  32.378  0.00  0.00    +0.000 HD
+BRANCH  24  36
+ATOM     36  S1  UNK     1     -39.042  67.654  30.200  0.00  0.00    +0.000 S 
+BRANCH  36  28
+ATOM     11  C11 UNK     1     -36.751  70.280  28.432  0.00  0.00    +0.000 A 
+ATOM     12  C12 UNK     1     -36.014  70.160  30.711  0.00  0.00    +0.000 A 
+ATOM     13  C13 UNK     1     -37.716  69.341  28.690  0.00  0.00    +0.000 A 
+ATOM     14  C14 UNK     1     -36.997  69.206  30.969  0.00  0.00    +0.000 A 
+ATOM     27  C27 UNK     1     -35.881  70.701  29.431  0.00  0.00    +0.000 A 
+ATOM     28  C28 UNK     1     -37.841  68.807  29.952  0.00  0.00    +0.000 A 
+ATOM     47  H11 UNK     1     -36.665  70.698  27.440  0.00  0.00    +0.000 HD
+ATOM     48  H12 UNK     1     -35.355  70.482  31.504  0.00  0.00    +0.000 HD
+ATOM     49  H13 UNK     1     -38.380  69.019  27.901  0.00  0.00    +0.000 HD
+ATOM     50  H14 UNK     1     -37.097  68.781  31.957  0.00  0.00    +0.000 HD
+BRANCH  27  23
+ATOM     23  C23 UNK     1     -34.818  71.719  29.141  0.00  0.00    +0.000 C 
+ATOM     67  H31 UNK     1     -34.522  72.180  30.095  0.00  0.00    +0.000 HD
+ATOM     68  H32 UNK     1     -35.244  72.468  28.458  0.00  0.00    +0.000 HD
+BRANCH  23  26
+ATOM      2  C2  UNK     1     -31.264  70.210  27.280  0.00  0.00    +0.000 A 
+ATOM      5  C5  UNK     1     -32.363  70.523  26.512  0.00  0.00    +0.000 A 
+ATOM      6  C6  UNK     1     -31.313  70.361  28.652  0.00  0.00    +0.000 A 
+ATOM      9  C9  UNK     1     -33.513  70.988  27.116  0.00  0.00    +0.000 A 
+ATOM     10  C10 UNK     1     -32.467  70.830  29.255  0.00  0.00    +0.000 A 
+ATOM     26  C26 UNK     1     -33.579  71.153  28.495  0.00  0.00    +0.000 A 
+ATOM     38  H2  UNK     1     -30.364  69.845  26.809  0.00  0.00    +0.000 HD
+ATOM     41  H5  UNK     1     -32.325  70.404  25.439  0.00  0.00    +0.000 HD
+ATOM     42  H6  UNK     1     -30.451  70.114  29.254  0.00  0.00    +0.000 HD
+ATOM     45  H9  UNK     1     -34.373  71.229  26.509  0.00  0.00    +0.000 HD
+ATOM     46  H10 UNK     1     -32.501  70.945  30.328  0.00  0.00    +0.000 HD
+ENDBRANCH  23  26
+ENDBRANCH  27  23
+ENDBRANCH  36  28
+ENDBRANCH  24  36
+ENDBRANCH  29  24
+TORSDOF 16
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -9.1      3.126      8.738
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\pa2ga\pa2ga-lig.pdb
+REMARK  16 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C15_15  and  C16_16
+REMARK    2  A    between atoms: C15_15  and  C17_17
+REMARK    3  A    between atoms: C16_16  and  C18_18
+REMARK    4  A    between atoms: C17_17  and  C19_19
+REMARK    5  A    between atoms: C18_18  and  C21_21
+REMARK    6  A    between atoms: C19_19  and  C25_25
+REMARK    7  A    between atoms: C20_20  and  C22_22
+REMARK    8  A    between atoms: C20_20  and  C29_29
+REMARK    9  A    between atoms: C21_21  and  C30_30
+REMARK   10  A    between atoms: C22_22  and  C31_31
+REMARK   11  A    between atoms: C23_23  and  C26_26
+REMARK   12  A    between atoms: C23_23  and  C27_27
+REMARK   13  A    between atoms: C24_24  and  C29_29
+REMARK   14  A    between atoms: C24_24  and  S1_36
+REMARK   15  A    between atoms: C28_28  and  S1_36
+REMARK   16  A    between atoms: C29_29  and  N1_32
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM     29  C29 UNK     1     -38.467  66.169  31.204  0.00  0.00    +0.000 C 
+ATOM     71  H35 UNK     1     -38.649  66.137  32.288  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH  29  32
+ATOM     30  C30 UNK     1     -37.335  64.109  31.793  0.00  0.00    +0.000 C 
+ATOM     32  N1  UNK     1     -37.628  65.016  30.861  0.00  0.00    +0.000 N 
+ATOM     34  O2  UNK     1     -37.735  64.215  32.951  0.00  0.00    +0.000 OA
+ATOM     72  H36 UNK     1     -37.276  64.911  29.931  0.00  0.00    +0.000 HD
+BRANCH  30  21
+ATOM     21  C21 UNK     1     -36.457  62.932  31.393  0.00  0.00    +0.000 C 
+ATOM     63  H27 UNK     1     -35.594  62.900  32.074  0.00  0.00    +0.000 HD
+ATOM     64  H28 UNK     1     -36.127  63.087  30.354  0.00  0.00    +0.000 HD
+BRANCH  21  18
+ATOM     18  C18 UNK     1     -37.177  61.586  31.470  0.00  0.00    +0.000 C 
+ATOM     57  H21 UNK     1     -36.691  60.879  30.780  0.00  0.00    +0.000 HD
+ATOM     58  H22 UNK     1     -38.230  61.724  31.183  0.00  0.00    +0.000 HD
+BRANCH  18  16
+ATOM     16  C16 UNK     1     -37.119  61.027  32.869  0.00  0.00    +0.000 C 
+ATOM     53  H17 UNK     1     -36.960  61.851  33.582  0.00  0.00    +0.000 HD
+ATOM     54  H18 UNK     1     -36.286  60.310  32.938  0.00  0.00    +0.000 HD
+BRANCH  16  15
+ATOM     15  C15 UNK     1     -38.405  60.324  33.206  0.00  0.00    +0.000 C 
+ATOM     51  H15 UNK     1     -39.114  60.459  32.376  0.00  0.00    +0.000 HD
+ATOM     52  H16 UNK     1     -38.199  59.253  33.354  0.00  0.00    +0.000 HD
+BRANCH  15  17
+ATOM     17  C17 UNK     1     -39.013  60.881  34.463  0.00  0.00    +0.000 C 
+ATOM     55  H19 UNK     1     -38.216  61.083  35.194  0.00  0.00    +0.000 HD
+ATOM     56  H20 UNK     1     -39.544  61.815  34.227  0.00  0.00    +0.000 HD
+BRANCH  17  19
+ATOM     19  C19 UNK     1     -39.988  59.885  35.048  0.00  0.00    +0.000 C 
+ATOM     59  H23 UNK     1     -39.888  58.939  34.495  0.00  0.00    +0.000 HD
+ATOM     60  H24 UNK     1     -39.738  59.741  36.110  0.00  0.00    +0.000 HD
+BRANCH  19  25
+ATOM      1  C1  UNK     1     -44.077  61.066  34.781  0.00  0.00    +0.000 A 
+ATOM      3  C3  UNK     1     -43.400  60.658  33.648  0.00  0.00    +0.000 A 
+ATOM      4  C4  UNK     1     -43.414  61.112  36.014  0.00  0.00    +0.000 A 
+ATOM      7  C7  UNK     1     -42.057  60.295  33.741  0.00  0.00    +0.000 A 
+ATOM      8  C8  UNK     1     -42.078  60.745  36.094  0.00  0.00    +0.000 A 
+ATOM     25  C25 UNK     1     -41.392  60.330  34.957  0.00  0.00    +0.000 A 
+ATOM     37  H1  UNK     1     -45.117  61.349  34.716  0.00  0.00    +0.000 HD
+ATOM     39  H3  UNK     1     -43.908  60.619  32.696  0.00  0.00    +0.000 HD
+ATOM     40  H4  UNK     1     -43.942  61.433  36.900  0.00  0.00    +0.000 HD
+ATOM     43  H7  UNK     1     -41.527  59.982  32.853  0.00  0.00    +0.000 HD
+ATOM     44  H8  UNK     1     -41.567  60.782  37.045  0.00  0.00    +0.000 HD
+ENDBRANCH  19  25
+ENDBRANCH  17  19
+ENDBRANCH  15  17
+ENDBRANCH  16  15
+ENDBRANCH  18  16
+ENDBRANCH  21  18
+ENDBRANCH  30  21
+ENDBRANCH  29  32
+BRANCH  29  20
+ATOM     20  C20 UNK     1     -37.742  67.480  30.876  0.00  0.00    +0.000 C 
+ATOM     61  H25 UNK     1     -36.661  67.301  30.967  0.00  0.00    +0.000 HD
+ATOM     62  H26 UNK     1     -38.077  68.240  31.597  0.00  0.00    +0.000 HD
+BRANCH  20  22
+ATOM     22  C22 UNK     1     -38.010  68.011  29.481  0.00  0.00    +0.000 C 
+ATOM     65  H29 UNK     1     -37.729  67.237  28.753  0.00  0.00    +0.000 HD
+ATOM     66  H30 UNK     1     -39.081  68.246  29.397  0.00  0.00    +0.000 HD
+BRANCH  22  31
+ATOM     31  C31 UNK     1     -37.226  69.254  29.181  0.00  0.00    +0.000 C 
+ATOM     33  O1  UNK     1     -36.439  69.710  30.041  0.00  0.00    +0.000 OA
+ATOM     35  O3  UNK     1     -37.374  69.763  28.059  0.00  0.00    +0.000 OA
+ENDBRANCH  22  31
+ENDBRANCH  20  22
+ENDBRANCH  29  20
+BRANCH  29  24
+ATOM     24  C24 UNK     1     -39.849  66.102  30.513  0.00  0.00    +0.000 C 
+ATOM     69  H33 UNK     1     -40.354  67.059  30.713  0.00  0.00    +0.000 HD
+ATOM     70  H34 UNK     1     -39.665  65.953  29.440  0.00  0.00    +0.000 HD
+BRANCH  24  36
+ATOM     36  S1  UNK     1     -40.986  64.775  31.050  0.00  0.00    +0.000 S 
+BRANCH  36  28
+ATOM     11  C11 UNK     1     -41.418  66.466  34.547  0.00  0.00    +0.000 A 
+ATOM     12  C12 UNK     1     -41.107  64.123  34.958  0.00  0.00    +0.000 A 
+ATOM     13  C13 UNK     1     -41.314  66.247  33.197  0.00  0.00    +0.000 A 
+ATOM     14  C14 UNK     1     -41.003  63.906  33.586  0.00  0.00    +0.000 A 
+ATOM     27  C27 UNK     1     -41.310  65.414  35.450  0.00  0.00    +0.000 A 
+ATOM     28  C28 UNK     1     -41.110  64.974  32.718  0.00  0.00    +0.000 A 
+ATOM     47  H11 UNK     1     -41.585  67.468  34.913  0.00  0.00    +0.000 HD
+ATOM     48  H12 UNK     1     -41.032  63.292  35.643  0.00  0.00    +0.000 HD
+ATOM     49  H13 UNK     1     -41.392  67.076  32.509  0.00  0.00    +0.000 HD
+ATOM     50  H14 UNK     1     -40.839  62.909  33.204  0.00  0.00    +0.000 HD
+BRANCH  27  23
+ATOM     23  C23 UNK     1     -41.411  65.660  36.927  0.00  0.00    +0.000 C 
+ATOM     67  H31 UNK     1     -41.780  66.685  37.075  0.00  0.00    +0.000 HD
+ATOM     68  H32 UNK     1     -40.408  65.536  37.360  0.00  0.00    +0.000 HD
+BRANCH  23  26
+ATOM      2  C2  UNK     1     -44.067  63.058  39.059  0.00  0.00    +0.000 A 
+ATOM      5  C5  UNK     1     -42.708  62.965  39.257  0.00  0.00    +0.000 A 
+ATOM      6  C6  UNK     1     -44.574  63.974  38.159  0.00  0.00    +0.000 A 
+ATOM      9  C9  UNK     1     -41.854  63.790  38.553  0.00  0.00    +0.000 A 
+ATOM     10  C10 UNK     1     -43.716  64.800  37.456  0.00  0.00    +0.000 A 
+ATOM     26  C26 UNK     1     -42.346  64.721  37.647  0.00  0.00    +0.000 A 
+ATOM     38  H2  UNK     1     -44.737  62.414  39.609  0.00  0.00    +0.000 HD
+ATOM     41  H5  UNK     1     -42.311  62.249  39.961  0.00  0.00    +0.000 HD
+ATOM     42  H6  UNK     1     -45.641  64.045  38.004  0.00  0.00    +0.000 HD
+ATOM     45  H9  UNK     1     -40.789  63.710  38.710  0.00  0.00    +0.000 HD
+ATOM     46  H10 UNK     1     -44.117  65.514  36.751  0.00  0.00    +0.000 HD
+ENDBRANCH  23  26
+ENDBRANCH  27  23
+ENDBRANCH  36  28
+ENDBRANCH  24  36
+ENDBRANCH  29  24
+TORSDOF 16
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -9.1      3.587      8.830
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\pa2ga\pa2ga-lig.pdb
+REMARK  16 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C15_15  and  C16_16
+REMARK    2  A    between atoms: C15_15  and  C17_17
+REMARK    3  A    between atoms: C16_16  and  C18_18
+REMARK    4  A    between atoms: C17_17  and  C19_19
+REMARK    5  A    between atoms: C18_18  and  C21_21
+REMARK    6  A    between atoms: C19_19  and  C25_25
+REMARK    7  A    between atoms: C20_20  and  C22_22
+REMARK    8  A    between atoms: C20_20  and  C29_29
+REMARK    9  A    between atoms: C21_21  and  C30_30
+REMARK   10  A    between atoms: C22_22  and  C31_31
+REMARK   11  A    between atoms: C23_23  and  C26_26
+REMARK   12  A    between atoms: C23_23  and  C27_27
+REMARK   13  A    between atoms: C24_24  and  C29_29
+REMARK   14  A    between atoms: C24_24  and  S1_36
+REMARK   15  A    between atoms: C28_28  and  S1_36
+REMARK   16  A    between atoms: C29_29  and  N1_32
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM     29  C29 UNK     1     -38.190  65.980  31.375  0.00  0.00    +0.000 C 
+ATOM     71  H35 UNK     1     -37.299  66.349  31.905  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH  29  32
+ATOM     30  C30 UNK     1     -36.924  63.922  31.554  0.00  0.00    +0.000 C 
+ATOM     32  N1  UNK     1     -37.935  64.587  30.995  0.00  0.00    +0.000 N 
+ATOM     34  O2  UNK     1     -36.177  64.447  32.376  0.00  0.00    +0.000 OA
+ATOM     72  H36 UNK     1     -38.517  64.138  30.317  0.00  0.00    +0.000 HD
+BRANCH  30  21
+ATOM     21  C21 UNK     1     -36.694  62.480  31.124  0.00  0.00    +0.000 C 
+ATOM     63  H27 UNK     1     -35.636  62.233  31.299  0.00  0.00    +0.000 HD
+ATOM     64  H28 UNK     1     -36.942  62.396  30.055  0.00  0.00    +0.000 HD
+BRANCH  21  18
+ATOM     18  C18 UNK     1     -37.552  61.475  31.894  0.00  0.00    +0.000 C 
+ATOM     57  H21 UNK     1     -37.485  60.493  31.400  0.00  0.00    +0.000 HD
+ATOM     58  H22 UNK     1     -38.596  61.822  31.897  0.00  0.00    +0.000 HD
+BRANCH  18  16
+ATOM     16  C16 UNK     1     -37.073  61.343  33.318  0.00  0.00    +0.000 C 
+ATOM     53  H17 UNK     1     -37.261  62.287  33.852  0.00  0.00    +0.000 HD
+ATOM     54  H18 UNK     1     -35.995  61.124  33.318  0.00  0.00    +0.000 HD
+BRANCH  16  15
+ATOM     15  C15 UNK     1     -37.804  60.228  34.014  0.00  0.00    +0.000 C 
+ATOM     51  H15 UNK     1     -37.390  59.266  33.680  0.00  0.00    +0.000 HD
+ATOM     52  H16 UNK     1     -37.672  60.338  35.101  0.00  0.00    +0.000 HD
+BRANCH  15  17
+ATOM     17  C17 UNK     1     -39.274  60.263  33.697  0.00  0.00    +0.000 C 
+ATOM     55  H19 UNK     1     -39.564  61.291  33.431  0.00  0.00    +0.000 HD
+ATOM     56  H20 UNK     1     -39.479  59.590  32.851  0.00  0.00    +0.000 HD
+BRANCH  17  19
+ATOM     19  C19 UNK     1     -40.071  59.814  34.900  0.00  0.00    +0.000 C 
+ATOM     59  H23 UNK     1     -40.045  58.715  34.940  0.00  0.00    +0.000 HD
+ATOM     60  H24 UNK     1     -39.609  60.246  35.800  0.00  0.00    +0.000 HD
+BRANCH  19  25
+ATOM      1  C1  UNK     1     -44.118  61.153  34.804  0.00  0.00    +0.000 A 
+ATOM      3  C3  UNK     1     -43.573  60.683  35.983  0.00  0.00    +0.000 A 
+ATOM      4  C4  UNK     1     -43.348  61.170  33.635  0.00  0.00    +0.000 A 
+ATOM      7  C7  UNK     1     -42.257  60.226  36.000  0.00  0.00    +0.000 A 
+ATOM      8  C8  UNK     1     -42.036  60.716  33.664  0.00  0.00    +0.000 A 
+ATOM     25  C25 UNK     1     -41.482  60.245  34.850  0.00  0.00    +0.000 A 
+ATOM     37  H1  UNK     1     -45.138  61.507  34.784  0.00  0.00    +0.000 HD
+ATOM     39  H3  UNK     1     -44.164  60.669  36.887  0.00  0.00    +0.000 HD
+ATOM     40  H4  UNK     1     -43.773  61.536  32.712  0.00  0.00    +0.000 HD
+ATOM     43  H7  UNK     1     -41.834  59.854  36.921  0.00  0.00    +0.000 HD
+ATOM     44  H8  UNK     1     -41.443  60.728  32.762  0.00  0.00    +0.000 HD
+ENDBRANCH  19  25
+ENDBRANCH  17  19
+ENDBRANCH  15  17
+ENDBRANCH  16  15
+ENDBRANCH  18  16
+ENDBRANCH  21  18
+ENDBRANCH  30  21
+ENDBRANCH  29  32
+BRANCH  29  20
+ATOM     20  C20 UNK     1     -38.403  66.850  30.130  0.00  0.00    +0.000 C 
+ATOM     61  H25 UNK     1     -39.331  66.518  29.641  0.00  0.00    +0.000 HD
+ATOM     62  H26 UNK     1     -37.536  66.710  29.468  0.00  0.00    +0.000 HD
+BRANCH  20  22
+ATOM     22  C22 UNK     1     -38.534  68.333  30.419  0.00  0.00    +0.000 C 
+ATOM     65  H29 UNK     1     -39.073  68.805  29.584  0.00  0.00    +0.000 HD
+ATOM     66  H30 UNK     1     -39.094  68.457  31.357  0.00  0.00    +0.000 HD
+BRANCH  22  31
+ATOM     31  C31 UNK     1     -37.202  69.007  30.567  0.00  0.00    +0.000 C 
+ATOM     33  O1  UNK     1     -36.607  69.428  29.549  0.00  0.00    +0.000 OA
+ATOM     35  O3  UNK     1     -36.759  69.147  31.718  0.00  0.00    +0.000 OA
+ENDBRANCH  22  31
+ENDBRANCH  20  22
+ENDBRANCH  29  20
+BRANCH  29  24
+ATOM     24  C24 UNK     1     -39.378  66.101  32.357  0.00  0.00    +0.000 C 
+ATOM     69  H33 UNK     1     -38.956  66.115  33.373  0.00  0.00    +0.000 HD
+ATOM     70  H34 UNK     1     -39.898  67.041  32.118  0.00  0.00    +0.000 HD
+BRANCH  24  36
+ATOM     36  S1  UNK     1     -40.632  64.772  32.317  0.00  0.00    +0.000 S 
+BRANCH  36  28
+ATOM     11  C11 UNK     1     -39.916  63.324  35.876  0.00  0.00    +0.000 A 
+ATOM     12  C12 UNK     1     -42.143  64.214  35.939  0.00  0.00    +0.000 A 
+ATOM     13  C13 UNK     1     -39.797  63.703  34.563  0.00  0.00    +0.000 A 
+ATOM     14  C14 UNK     1     -42.017  64.597  34.605  0.00  0.00    +0.000 A 
+ATOM     27  C27 UNK     1     -41.088  63.565  36.583  0.00  0.00    +0.000 A 
+ATOM     28  C28 UNK     1     -40.841  64.339  33.931  0.00  0.00    +0.000 A 
+ATOM     47  H11 UNK     1     -39.089  62.833  36.366  0.00  0.00    +0.000 HD
+ATOM     48  H12 UNK     1     -43.058  64.419  36.474  0.00  0.00    +0.000 HD
+ATOM     49  H13 UNK     1     -38.883  63.503  34.025  0.00  0.00    +0.000 HD
+ATOM     50  H14 UNK     1     -42.835  65.093  34.102  0.00  0.00    +0.000 HD
+BRANCH  27  23
+ATOM     23  C23 UNK     1     -41.219  63.137  38.016  0.00  0.00    +0.000 C 
+ATOM     67  H31 UNK     1     -40.409  62.425  38.232  0.00  0.00    +0.000 HD
+ATOM     68  H32 UNK     1     -42.203  62.662  38.139  0.00  0.00    +0.000 HD
+BRANCH  23  26
+ATOM      2  C2  UNK     1     -41.005  66.408  40.777  0.00  0.00    +0.000 A 
+ATOM      5  C5  UNK     1     -40.177  66.381  39.678  0.00  0.00    +0.000 A 
+ATOM      6  C6  UNK     1     -41.890  65.372  41.003  0.00  0.00    +0.000 A 
+ATOM      9  C9  UNK     1     -40.233  65.316  38.803  0.00  0.00    +0.000 A 
+ATOM     10  C10 UNK     1     -41.945  64.306  40.122  0.00  0.00    +0.000 A 
+ATOM     26  C26 UNK     1     -41.121  64.267  39.010  0.00  0.00    +0.000 A 
+ATOM     38  H2  UNK     1     -40.963  67.240  41.464  0.00  0.00    +0.000 HD
+ATOM     41  H5  UNK     1     -39.484  67.191  39.502  0.00  0.00    +0.000 HD
+ATOM     42  H6  UNK     1     -42.539  65.394  41.866  0.00  0.00    +0.000 HD
+ATOM     45  H9  UNK     1     -39.578  65.298  37.944  0.00  0.00    +0.000 HD
+ATOM     46  H10 UNK     1     -42.637  63.498  40.303  0.00  0.00    +0.000 HD
+ENDBRANCH  23  26
+ENDBRANCH  27  23
+ENDBRANCH  36  28
+ENDBRANCH  24  36
+ENDBRANCH  29  24
+TORSDOF 16
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -9.1      4.258      9.459
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\pa2ga\pa2ga-lig.pdb
+REMARK  16 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C15_15  and  C16_16
+REMARK    2  A    between atoms: C15_15  and  C17_17
+REMARK    3  A    between atoms: C16_16  and  C18_18
+REMARK    4  A    between atoms: C17_17  and  C19_19
+REMARK    5  A    between atoms: C18_18  and  C21_21
+REMARK    6  A    between atoms: C19_19  and  C25_25
+REMARK    7  A    between atoms: C20_20  and  C22_22
+REMARK    8  A    between atoms: C20_20  and  C29_29
+REMARK    9  A    between atoms: C21_21  and  C30_30
+REMARK   10  A    between atoms: C22_22  and  C31_31
+REMARK   11  A    between atoms: C23_23  and  C26_26
+REMARK   12  A    between atoms: C23_23  and  C27_27
+REMARK   13  A    between atoms: C24_24  and  C29_29
+REMARK   14  A    between atoms: C24_24  and  S1_36
+REMARK   15  A    between atoms: C28_28  and  S1_36
+REMARK   16  A    between atoms: C29_29  and  N1_32
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM     29  C29 UNK     1     -38.880  65.307  31.938  0.00  0.00    +0.000 C 
+ATOM     71  H35 UNK     1     -37.989  65.946  32.027  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH  29  32
+ATOM     30  C30 UNK     1     -37.165  63.607  31.748  0.00  0.00    +0.000 C 
+ATOM     32  N1  UNK     1     -38.430  63.970  31.537  0.00  0.00    +0.000 N 
+ATOM     34  O2  UNK     1     -36.346  64.369  32.258  0.00  0.00    +0.000 OA
+ATOM     72  H36 UNK     1     -39.070  63.334  31.107  0.00  0.00    +0.000 HD
+BRANCH  30  21
+ATOM     21  C21 UNK     1     -36.742  62.212  31.311  0.00  0.00    +0.000 C 
+ATOM     63  H27 UNK     1     -35.661  62.109  31.488  0.00  0.00    +0.000 HD
+ATOM     64  H28 UNK     1     -36.974  62.101  30.241  0.00  0.00    +0.000 HD
+BRANCH  21  18
+ATOM     18  C18 UNK     1     -37.457  61.095  32.073  0.00  0.00    +0.000 C 
+ATOM     57  H21 UNK     1     -37.226  60.131  31.597  0.00  0.00    +0.000 HD
+ATOM     58  H22 UNK     1     -38.542  61.278  32.042  0.00  0.00    +0.000 HD
+BRANCH  18  16
+ATOM     16  C16 UNK     1     -37.006  61.055  33.511  0.00  0.00    +0.000 C 
+ATOM     53  H17 UNK     1     -36.299  61.878  33.692  0.00  0.00    +0.000 HD
+ATOM     54  H18 UNK     1     -36.514  60.091  33.709  0.00  0.00    +0.000 HD
+BRANCH  16  15
+ATOM     15  C15 UNK     1     -38.185  61.205  34.433  0.00  0.00    +0.000 C 
+ATOM     51  H15 UNK     1     -37.889  60.893  35.446  0.00  0.00    +0.000 HD
+ATOM     52  H16 UNK     1     -38.500  62.260  34.442  0.00  0.00    +0.000 HD
+BRANCH  15  17
+ATOM     17  C17 UNK     1     -39.339  60.356  33.979  0.00  0.00    +0.000 C 
+ATOM     55  H19 UNK     1     -39.964  60.934  33.282  0.00  0.00    +0.000 HD
+ATOM     56  H20 UNK     1     -38.953  59.459  33.473  0.00  0.00    +0.000 HD
+BRANCH  17  19
+ATOM     19  C19 UNK     1     -40.172  59.940  35.169  0.00  0.00    +0.000 C 
+ATOM     59  H23 UNK     1     -40.103  58.847  35.275  0.00  0.00    +0.000 HD
+ATOM     60  H24 UNK     1     -39.772  60.442  36.063  0.00  0.00    +0.000 HD
+BRANCH  19  25
+ATOM      1  C1  UNK     1     -44.264  61.090  34.815  0.00  0.00    +0.000 A 
+ATOM      3  C3  UNK     1     -43.752  60.727  36.046  0.00  0.00    +0.000 A 
+ATOM      4  C4  UNK     1     -43.444  61.060  33.679  0.00  0.00    +0.000 A 
+ATOM      7  C7  UNK     1     -42.420  60.330  36.148  0.00  0.00    +0.000 A 
+ATOM      8  C8  UNK     1     -42.118  60.667  33.795  0.00  0.00    +0.000 A 
+ATOM     25  C25 UNK     1     -41.597  60.304  35.032  0.00  0.00    +0.000 A 
+ATOM     37  H1  UNK     1     -45.295  61.397  34.728  0.00  0.00    +0.000 HD
+ATOM     39  H3  UNK     1     -44.380  60.749  36.923  0.00  0.00    +0.000 HD
+ATOM     40  H4  UNK     1     -43.844  61.342  32.716  0.00  0.00    +0.000 HD
+ATOM     43  H7  UNK     1     -42.022  60.041  37.109  0.00  0.00    +0.000 HD
+ATOM     44  H8  UNK     1     -41.487  60.644  32.918  0.00  0.00    +0.000 HD
+ENDBRANCH  19  25
+ENDBRANCH  17  19
+ENDBRANCH  15  17
+ENDBRANCH  16  15
+ENDBRANCH  18  16
+ENDBRANCH  21  18
+ENDBRANCH  30  21
+ENDBRANCH  29  32
+BRANCH  29  20
+ATOM     20  C20 UNK     1     -39.800  65.911  30.869  0.00  0.00    +0.000 C 
+ATOM     61  H25 UNK     1     -40.796  66.044  31.316  0.00  0.00    +0.000 HD
+ATOM     62  H26 UNK     1     -39.838  65.211  30.022  0.00  0.00    +0.000 HD
+BRANCH  20  22
+ATOM     22  C22 UNK     1     -39.344  67.256  30.340  0.00  0.00    +0.000 C 
+ATOM     65  H29 UNK     1     -40.182  67.722  29.801  0.00  0.00    +0.000 HD
+ATOM     66  H30 UNK     1     -39.041  67.882  31.192  0.00  0.00    +0.000 HD
+BRANCH  22  31
+ATOM     31  C31 UNK     1     -38.181  67.139  29.400  0.00  0.00    +0.000 C 
+ATOM     33  O1  UNK     1     -37.915  66.030  28.883  0.00  0.00    +0.000 OA
+ATOM     35  O3  UNK     1     -37.544  68.174  29.149  0.00  0.00    +0.000 OA
+ENDBRANCH  22  31
+ENDBRANCH  20  22
+ENDBRANCH  29  20
+BRANCH  29  24
+ATOM     24  C24 UNK     1     -39.563  65.295  33.326  0.00  0.00    +0.000 C 
+ATOM     69  H33 UNK     1     -38.882  64.773  34.014  0.00  0.00    +0.000 HD
+ATOM     70  H34 UNK     1     -39.715  66.343  33.618  0.00  0.00    +0.000 HD
+BRANCH  24  36
+ATOM     36  S1  UNK     1     -41.187  64.464  33.448  0.00  0.00    +0.000 S 
+BRANCH  36  28
+ATOM     11  C11 UNK     1     -40.366  63.395  37.116  0.00  0.00    +0.000 A 
+ATOM     12  C12 UNK     1     -42.685  64.007  37.089  0.00  0.00    +0.000 A 
+ATOM     13  C13 UNK     1     -40.270  63.683  35.779  0.00  0.00    +0.000 A 
+ATOM     14  C14 UNK     1     -42.582  64.299  35.730  0.00  0.00    +0.000 A 
+ATOM     27  C27 UNK     1     -41.571  63.544  37.792  0.00  0.00    +0.000 A 
+ATOM     28  C28 UNK     1     -41.371  64.135  35.089  0.00  0.00    +0.000 A 
+ATOM     47  H11 UNK     1     -39.494  63.047  37.650  0.00  0.00    +0.000 HD
+ATOM     48  H12 UNK     1     -43.627  64.140  37.599  0.00  0.00    +0.000 HD
+ATOM     49  H13 UNK     1     -39.328  63.555  35.266  0.00  0.00    +0.000 HD
+ATOM     50  H14 UNK     1     -43.445  64.651  35.183  0.00  0.00    +0.000 HD
+BRANCH  27  23
+ATOM     23  C23 UNK     1     -41.675  63.216  39.253  0.00  0.00    +0.000 C 
+ATOM     67  H31 UNK     1     -40.839  62.549  39.510  0.00  0.00    +0.000 HD
+ATOM     68  H32 UNK     1     -42.642  62.718  39.420  0.00  0.00    +0.000 HD
+BRANCH  23  26
+ATOM      2  C2  UNK     1     -41.555  66.680  41.774  0.00  0.00    +0.000 A 
+ATOM      5  C5  UNK     1     -40.767  66.623  40.646  0.00  0.00    +0.000 A 
+ATOM      6  C6  UNK     1     -42.367  65.613  42.106  0.00  0.00    +0.000 A 
+ATOM      9  C9  UNK     1     -40.792  65.498  39.848  0.00  0.00    +0.000 A 
+ATOM     10  C10 UNK     1     -42.391  64.487  41.303  0.00  0.00    +0.000 A 
+ATOM     26  C26 UNK     1     -41.608  64.416  40.163  0.00  0.00    +0.000 A 
+ATOM     38  H2  UNK     1     -41.537  67.559  42.400  0.00  0.00    +0.000 HD
+ATOM     41  H5  UNK     1     -40.131  67.457  40.387  0.00  0.00    +0.000 HD
+ATOM     42  H6  UNK     1     -42.984  65.659  42.991  0.00  0.00    +0.000 HD
+ATOM     45  H9  UNK     1     -40.170  65.457  38.967  0.00  0.00    +0.000 HD
+ATOM     46  H10 UNK     1     -43.027  63.655  41.567  0.00  0.00    +0.000 HD
+ENDBRANCH  23  26
+ENDBRANCH  27  23
+ENDBRANCH  36  28
+ENDBRANCH  24  36
+ENDBRANCH  29  24
+TORSDOF 16
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -9.1      1.751     11.649
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\pa2ga\pa2ga-lig.pdb
+REMARK  16 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C15_15  and  C16_16
+REMARK    2  A    between atoms: C15_15  and  C17_17
+REMARK    3  A    between atoms: C16_16  and  C18_18
+REMARK    4  A    between atoms: C17_17  and  C19_19
+REMARK    5  A    between atoms: C18_18  and  C21_21
+REMARK    6  A    between atoms: C19_19  and  C25_25
+REMARK    7  A    between atoms: C20_20  and  C22_22
+REMARK    8  A    between atoms: C20_20  and  C29_29
+REMARK    9  A    between atoms: C21_21  and  C30_30
+REMARK   10  A    between atoms: C22_22  and  C31_31
+REMARK   11  A    between atoms: C23_23  and  C26_26
+REMARK   12  A    between atoms: C23_23  and  C27_27
+REMARK   13  A    between atoms: C24_24  and  C29_29
+REMARK   14  A    between atoms: C24_24  and  S1_36
+REMARK   15  A    between atoms: C28_28  and  S1_36
+REMARK   16  A    between atoms: C29_29  and  N1_32
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM     29  C29 UNK     1     -38.541  66.861  31.524  0.00  0.00    +0.000 C 
+ATOM     71  H35 UNK     1     -37.902  66.933  32.417  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH  29  32
+ATOM     30  C30 UNK     1     -37.229  68.776  30.830  0.00  0.00    +0.000 C 
+ATOM     32  N1  UNK     1     -37.947  67.708  30.484  0.00  0.00    +0.000 N 
+ATOM     34  O2  UNK     1     -37.058  69.091  32.006  0.00  0.00    +0.000 OA
+ATOM     72  H36 UNK     1     -38.081  67.485  29.519  0.00  0.00    +0.000 HD
+BRANCH  30  21
+ATOM     21  C21 UNK     1     -36.636  69.628  29.717  0.00  0.00    +0.000 C 
+ATOM     63  H27 UNK     1     -35.884  69.026  29.186  0.00  0.00    +0.000 HD
+ATOM     64  H28 UNK     1     -36.173  70.516  30.173  0.00  0.00    +0.000 HD
+BRANCH  21  18
+ATOM     18  C18 UNK     1     -37.675  70.101  28.699  0.00  0.00    +0.000 C 
+ATOM     57  H21 UNK     1     -38.359  70.811  29.188  0.00  0.00    +0.000 HD
+ATOM     58  H22 UNK     1     -38.238  69.232  28.331  0.00  0.00    +0.000 HD
+BRANCH  18  16
+ATOM     16  C16 UNK     1     -37.007  70.785  27.532  0.00  0.00    +0.000 C 
+ATOM     53  H17 UNK     1     -37.626  70.652  26.632  0.00  0.00    +0.000 HD
+ATOM     54  H18 UNK     1     -36.015  70.338  27.371  0.00  0.00    +0.000 HD
+BRANCH  16  15
+ATOM     15  C15 UNK     1     -36.847  72.255  27.809  0.00  0.00    +0.000 C 
+ATOM     51  H15 UNK     1     -37.286  72.825  26.977  0.00  0.00    +0.000 HD
+ATOM     52  H16 UNK     1     -37.367  72.500  28.748  0.00  0.00    +0.000 HD
+BRANCH  15  17
+ATOM     17  C17 UNK     1     -35.397  72.625  27.944  0.00  0.00    +0.000 C 
+ATOM     55  H19 UNK     1     -35.215  73.579  27.427  0.00  0.00    +0.000 HD
+ATOM     56  H20 UNK     1     -35.146  72.729  29.011  0.00  0.00    +0.000 HD
+BRANCH  17  19
+ATOM     19  C19 UNK     1     -34.532  71.550  27.329  0.00  0.00    +0.000 C 
+ATOM     59  H23 UNK     1     -35.155  70.659  27.162  0.00  0.00    +0.000 HD
+ATOM     60  H24 UNK     1     -34.136  71.930  26.375  0.00  0.00    +0.000 HD
+BRANCH  19  25
+ATOM      1  C1  UNK     1     -31.183  70.532  29.766  0.00  0.00    +0.000 A 
+ATOM      3  C3  UNK     1     -31.150  70.284  28.407  0.00  0.00    +0.000 A 
+ATOM      4  C4  UNK     1     -32.326  71.098  30.346  0.00  0.00    +0.000 A 
+ATOM      7  C7  UNK     1     -32.258  70.599  27.622  0.00  0.00    +0.000 A 
+ATOM      8  C8  UNK     1     -33.421  71.411  29.554  0.00  0.00    +0.000 A 
+ATOM     25  C25 UNK     1     -33.392  71.167  28.184  0.00  0.00    +0.000 A 
+ATOM     37  H1  UNK     1     -30.329  70.289  30.380  0.00  0.00    +0.000 HD
+ATOM     39  H3  UNK     1     -30.271  69.848  27.956  0.00  0.00    +0.000 HD
+ATOM     40  H4  UNK     1     -32.353  71.291  31.409  0.00  0.00    +0.000 HD
+ATOM     43  H7  UNK     1     -32.233  70.399  26.561  0.00  0.00    +0.000 HD
+ATOM     44  H8  UNK     1     -34.301  71.847  30.002  0.00  0.00    +0.000 HD
+ENDBRANCH  19  25
+ENDBRANCH  17  19
+ENDBRANCH  15  17
+ENDBRANCH  16  15
+ENDBRANCH  18  16
+ENDBRANCH  21  18
+ENDBRANCH  30  21
+ENDBRANCH  29  32
+BRANCH  29  20
+ATOM     20  C20 UNK     1     -39.942  67.362  31.894  0.00  0.00    +0.000 C 
+ATOM     61  H25 UNK     1     -40.647  66.531  31.750  0.00  0.00    +0.000 HD
+ATOM     62  H26 UNK     1     -40.186  68.205  31.232  0.00  0.00    +0.000 HD
+BRANCH  20  22
+ATOM     22  C22 UNK     1     -40.076  67.842  33.326  0.00  0.00    +0.000 C 
+ATOM     65  H29 UNK     1     -39.079  68.121  33.696  0.00  0.00    +0.000 HD
+ATOM     66  H30 UNK     1     -40.748  68.713  33.341  0.00  0.00    +0.000 HD
+BRANCH  22  31
+ATOM     31  C31 UNK     1     -40.643  66.791  34.233  0.00  0.00    +0.000 C 
+ATOM     33  O1  UNK     1     -41.401  65.913  33.762  0.00  0.00    +0.000 OA
+ATOM     35  O3  UNK     1     -40.301  66.822  35.425  0.00  0.00    +0.000 OA
+ENDBRANCH  22  31
+ENDBRANCH  20  22
+ENDBRANCH  29  20
+BRANCH  29  24
+ATOM     24  C24 UNK     1     -38.567  65.371  31.110  0.00  0.00    +0.000 C 
+ATOM     69  H33 UNK     1     -39.484  64.936  31.533  0.00  0.00    +0.000 HD
+ATOM     70  H34 UNK     1     -38.571  65.344  30.011  0.00  0.00    +0.000 HD
+BRANCH  24  36
+ATOM     36  S1  UNK     1     -37.173  64.327  31.666  0.00  0.00    +0.000 S 
+BRANCH  36  28
+ATOM     11  C11 UNK     1     -39.565  62.353  34.045  0.00  0.00    +0.000 A 
+ATOM     12  C12 UNK     1     -38.111  60.730  33.043  0.00  0.00    +0.000 A 
+ATOM     13  C13 UNK     1     -38.939  63.353  33.344  0.00  0.00    +0.000 A 
+ATOM     14  C14 UNK     1     -37.478  61.749  32.333  0.00  0.00    +0.000 A 
+ATOM     27  C27 UNK     1     -39.160  61.030  33.913  0.00  0.00    +0.000 A 
+ATOM     28  C28 UNK     1     -37.903  63.053  32.491  0.00  0.00    +0.000 A 
+ATOM     47  H11 UNK     1     -40.383  62.598  34.706  0.00  0.00    +0.000 HD
+ATOM     48  H12 UNK     1     -37.789  59.707  32.919  0.00  0.00    +0.000 HD
+ATOM     49  H13 UNK     1     -39.261  64.377  33.463  0.00  0.00    +0.000 HD
+ATOM     50  H14 UNK     1     -36.661  61.520  31.664  0.00  0.00    +0.000 HD
+BRANCH  27  23
+ATOM     23  C23 UNK     1     -39.840  59.942  34.691  0.00  0.00    +0.000 C 
+ATOM     67  H31 UNK     1     -39.435  59.953  35.714  0.00  0.00    +0.000 HD
+ATOM     68  H32 UNK     1     -39.625  58.985  34.194  0.00  0.00    +0.000 HD
+BRANCH  23  26
+ATOM      2  C2  UNK     1     -44.086  60.472  34.942  0.00  0.00    +0.000 A 
+ATOM      5  C5  UNK     1     -43.305  60.631  36.065  0.00  0.00    +0.000 A 
+ATOM      6  C6  UNK     1     -43.504  60.121  33.740  0.00  0.00    +0.000 A 
+ATOM      9  C9  UNK     1     -41.941  60.439  35.986  0.00  0.00    +0.000 A 
+ATOM     10  C10 UNK     1     -42.136  59.930  33.663  0.00  0.00    +0.000 A 
+ATOM     26  C26 UNK     1     -41.337  60.090  34.783  0.00  0.00    +0.000 A 
+ATOM     38  H2  UNK     1     -45.153  60.622  35.002  0.00  0.00    +0.000 HD
+ATOM     41  H5  UNK     1     -43.760  60.906  37.006  0.00  0.00    +0.000 HD
+ATOM     42  H6  UNK     1     -44.118  59.995  32.859  0.00  0.00    +0.000 HD
+ATOM     45  H9  UNK     1     -41.334  60.562  36.871  0.00  0.00    +0.000 HD
+ATOM     46  H10 UNK     1     -41.686  59.654  32.721  0.00  0.00    +0.000 HD
+ENDBRANCH  23  26
+ENDBRANCH  27  23
+ENDBRANCH  36  28
+ENDBRANCH  24  36
+ENDBRANCH  29  24
+TORSDOF 16
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -9.0      3.677      9.700
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\pa2ga\pa2ga-lig.pdb
+REMARK  16 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C15_15  and  C16_16
+REMARK    2  A    between atoms: C15_15  and  C17_17
+REMARK    3  A    between atoms: C16_16  and  C18_18
+REMARK    4  A    between atoms: C17_17  and  C19_19
+REMARK    5  A    between atoms: C18_18  and  C21_21
+REMARK    6  A    between atoms: C19_19  and  C25_25
+REMARK    7  A    between atoms: C20_20  and  C22_22
+REMARK    8  A    between atoms: C20_20  and  C29_29
+REMARK    9  A    between atoms: C21_21  and  C30_30
+REMARK   10  A    between atoms: C22_22  and  C31_31
+REMARK   11  A    between atoms: C23_23  and  C26_26
+REMARK   12  A    between atoms: C23_23  and  C27_27
+REMARK   13  A    between atoms: C24_24  and  C29_29
+REMARK   14  A    between atoms: C24_24  and  S1_36
+REMARK   15  A    between atoms: C28_28  and  S1_36
+REMARK   16  A    between atoms: C29_29  and  N1_32
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM     29  C29 UNK     1     -38.533  65.459  30.894  0.00  0.00    +0.000 C 
+ATOM     71  H35 UNK     1     -39.034  64.559  30.508  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH  29  32
+ATOM     30  C30 UNK     1     -40.665  65.602  32.036  0.00  0.00    +0.000 C 
+ATOM     32  N1  UNK     1     -39.476  66.147  31.782  0.00  0.00    +0.000 N 
+ATOM     34  O2  UNK     1     -41.012  64.536  31.531  0.00  0.00    +0.000 OA
+ATOM     72  H36 UNK     1     -39.227  67.023  32.196  0.00  0.00    +0.000 HD
+BRANCH  30  21
+ATOM     21  C21 UNK     1     -41.613  66.354  32.958  0.00  0.00    +0.000 C 
+ATOM     63  H27 UNK     1     -42.261  65.620  33.458  0.00  0.00    +0.000 HD
+ATOM     64  H28 UNK     1     -42.210  67.048  32.347  0.00  0.00    +0.000 HD
+BRANCH  21  18
+ATOM     18  C18 UNK     1     -40.892  67.166  34.035  0.00  0.00    +0.000 C 
+ATOM     57  H21 UNK     1     -41.470  68.078  34.244  0.00  0.00    +0.000 HD
+ATOM     58  H22 UNK     1     -39.888  67.433  33.672  0.00  0.00    +0.000 HD
+BRANCH  18  16
+ATOM     16  C16 UNK     1     -40.757  66.366  35.307  0.00  0.00    +0.000 C 
+ATOM     53  H17 UNK     1     -40.478  67.041  36.131  0.00  0.00    +0.000 HD
+ATOM     54  H18 UNK     1     -39.978  65.601  35.172  0.00  0.00    +0.000 HD
+BRANCH  16  15
+ATOM     15  C15 UNK     1     -42.060  65.692  35.641  0.00  0.00    +0.000 C 
+ATOM     51  H15 UNK     1     -42.465  66.134  36.563  0.00  0.00    +0.000 HD
+ATOM     52  H16 UNK     1     -42.764  65.845  34.810  0.00  0.00    +0.000 HD
+BRANCH  15  17
+ATOM     17  C17 UNK     1     -41.867  64.216  35.851  0.00  0.00    +0.000 C 
+ATOM     55  H19 UNK     1     -42.786  63.785  36.275  0.00  0.00    +0.000 HD
+ATOM     56  H20 UNK     1     -41.645  63.737  34.885  0.00  0.00    +0.000 HD
+BRANCH  17  19
+ATOM     19  C19 UNK     1     -40.717  63.978  36.803  0.00  0.00    +0.000 C 
+ATOM     59  H23 UNK     1     -40.298  62.982  36.596  0.00  0.00    +0.000 HD
+ATOM     60  H24 UNK     1     -39.962  64.759  36.634  0.00  0.00    +0.000 HD
+BRANCH  19  25
+ATOM      1  C1  UNK     1     -41.963  64.196  40.876  0.00  0.00    +0.000 A 
+ATOM      3  C3  UNK     1     -41.074  65.127  40.374  0.00  0.00    +0.000 A 
+ATOM      4  C4  UNK     1     -42.438  63.167  40.053  0.00  0.00    +0.000 A 
+ATOM      7  C7  UNK     1     -40.655  65.035  39.048  0.00  0.00    +0.000 A 
+ATOM      8  C8  UNK     1     -42.016  63.088  38.733  0.00  0.00    +0.000 A 
+ATOM     25  C25 UNK     1     -41.124  64.025  38.221  0.00  0.00    +0.000 A 
+ATOM     37  H1  UNK     1     -42.291  64.261  41.903  0.00  0.00    +0.000 HD
+ATOM     39  H3  UNK     1     -40.707  65.923  41.005  0.00  0.00    +0.000 HD
+ATOM     40  H4  UNK     1     -43.132  62.438  40.445  0.00  0.00    +0.000 HD
+ATOM     43  H7  UNK     1     -39.956  65.760  38.658  0.00  0.00    +0.000 HD
+ATOM     44  H8  UNK     1     -42.383  62.293  38.099  0.00  0.00    +0.000 HD
+ENDBRANCH  19  25
+ENDBRANCH  17  19
+ENDBRANCH  15  17
+ENDBRANCH  16  15
+ENDBRANCH  18  16
+ENDBRANCH  21  18
+ENDBRANCH  30  21
+ENDBRANCH  29  32
+BRANCH  29  20
+ATOM     20  C20 UNK     1     -38.163  66.351  29.703  0.00  0.00    +0.000 C 
+ATOM     61  H25 UNK     1     -38.666  65.949  28.811  0.00  0.00    +0.000 HD
+ATOM     62  H26 UNK     1     -37.070  66.324  29.586  0.00  0.00    +0.000 HD
+BRANCH  20  22
+ATOM     22  C22 UNK     1     -38.578  67.802  29.856  0.00  0.00    +0.000 C 
+ATOM     65  H29 UNK     1     -38.878  68.186  28.870  0.00  0.00    +0.000 HD
+ATOM     66  H30 UNK     1     -39.422  67.851  30.559  0.00  0.00    +0.000 HD
+BRANCH  22  31
+ATOM     31  C31 UNK     1     -37.469  68.662  30.384  0.00  0.00    +0.000 C 
+ATOM     33  O1  UNK     1     -37.210  68.653  31.609  0.00  0.00    +0.000 OA
+ATOM     35  O3  UNK     1     -36.827  69.333  29.560  0.00  0.00    +0.000 OA
+ENDBRANCH  22  31
+ENDBRANCH  20  22
+ENDBRANCH  29  20
+BRANCH  29  24
+ATOM     24  C24 UNK     1     -37.272  64.980  31.651  0.00  0.00    +0.000 C 
+ATOM     69  H33 UNK     1     -36.442  65.629  31.335  0.00  0.00    +0.000 HD
+ATOM     70  H34 UNK     1     -37.484  65.081  32.725  0.00  0.00    +0.000 HD
+BRANCH  24  36
+ATOM     36  S1  UNK     1     -36.738  63.254  31.371  0.00  0.00    +0.000 S 
+BRANCH  36  28
+ATOM     11  C11 UNK     1     -38.358  60.185  33.169  0.00  0.00    +0.000 A 
+ATOM     12  C12 UNK     1     -39.243  62.143  34.235  0.00  0.00    +0.000 A 
+ATOM     13  C13 UNK     1     -37.613  60.974  32.330  0.00  0.00    +0.000 A 
+ATOM     14  C14 UNK     1     -38.483  62.940  33.381  0.00  0.00    +0.000 A 
+ATOM     27  C27 UNK     1     -39.188  60.752  34.129  0.00  0.00    +0.000 A 
+ATOM     28  C28 UNK     1     -37.672  62.344  32.436  0.00  0.00    +0.000 A 
+ATOM     47  H11 UNK     1     -38.298  59.111  33.083  0.00  0.00    +0.000 HD
+ATOM     48  H12 UNK     1     -39.874  62.602  34.981  0.00  0.00    +0.000 HD
+ATOM     49  H13 UNK     1     -36.977  60.518  31.584  0.00  0.00    +0.000 HD
+ATOM     50  H14 UNK     1     -38.529  64.017  33.457  0.00  0.00    +0.000 HD
+BRANCH  27  23
+ATOM     23  C23 UNK     1     -40.011  59.886  35.036  0.00  0.00    +0.000 C 
+ATOM     67  H31 UNK     1     -39.680  60.066  36.069  0.00  0.00    +0.000 HD
+ATOM     68  H32 UNK     1     -39.845  58.838  34.746  0.00  0.00    +0.000 HD
+BRANCH  23  26
+ATOM      2  C2  UNK     1     -44.203  60.759  34.843  0.00  0.00    +0.000 A 
+ATOM      5  C5  UNK     1     -43.537  60.849  36.044  0.00  0.00    +0.000 A 
+ATOM      6  C6  UNK     1     -43.527  60.367  33.704  0.00  0.00    +0.000 A 
+ATOM      9  C9  UNK     1     -42.192  60.547  36.107  0.00  0.00    +0.000 A 
+ATOM     10  C10 UNK     1     -42.178  60.066  33.770  0.00  0.00    +0.000 A 
+ATOM     26  C26 UNK     1     -41.493  60.156  34.971  0.00  0.00    +0.000 A 
+ATOM     38  H2  UNK     1     -45.255  60.995  34.791  0.00  0.00    +0.000 HD
+ATOM     41  H5  UNK     1     -44.066  61.155  36.935  0.00  0.00    +0.000 HD
+ATOM     42  H6  UNK     1     -44.051  60.296  32.762  0.00  0.00    +0.000 HD
+ATOM     45  H9  UNK     1     -41.675  60.615  37.053  0.00  0.00    +0.000 HD
+ATOM     46  H10 UNK     1     -41.654  59.759  32.878  0.00  0.00    +0.000 HD
+ENDBRANCH  23  26
+ENDBRANCH  27  23
+ENDBRANCH  36  28
+ENDBRANCH  24  36
+ENDBRANCH  29  24
+TORSDOF 16
+ENDMDL

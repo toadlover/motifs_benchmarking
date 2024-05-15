@@ -1,0 +1,495 @@
+MODEL 1
+REMARK VINA RESULT:      -8.3      0.000      0.000
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\sahh\sahh-lig.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_3  and  C9_9
+REMARK    2  A    between atoms: C6_6  and  N1_12
+REMARK    3  A    between atoms: C9_9  and  C10_10
+REMARK    4  A    between atoms: C9_9  and  N5_16
+REMARK    5  A    between atoms: C10_10  and  C11_11
+REMARK    6  A    between atoms: C10_10  and  O2_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNK     1      49.156 -22.428 102.445  0.00  0.00    +0.000 C 
+ATOM      2  C2  UNK     1      46.486 -19.506 100.487  0.00  0.00    +0.000 A 
+ATOM      5  C5  UNK     1      48.063 -20.960 100.412  0.00  0.00    +0.000 A 
+ATOM      6  C6  UNK     1      49.132 -21.886 100.124  0.00  0.00    +0.000 C 
+ATOM      7  C7  UNK     1      47.642 -20.869 101.779  0.00  0.00    +0.000 A 
+ATOM     13  N2  UNK     1      49.632 -22.597 101.227  0.00  0.00    +0.000 NA
+ATOM     14  N3  UNK     1      48.165 -21.594 102.838  0.00  0.00    +0.000 NA
+ATOM     15  N4  UNK     1      47.286 -20.077  99.654  0.00  0.00    +0.000 NA
+ATOM     16  N5  UNK     1      46.667 -19.951 101.795  0.00  0.00    +0.000 N 
+ATOM     20  H1  UNK     1      49.610 -23.025 103.221  0.00  0.00    +0.000 HD
+ATOM     21  H2  UNK     1      45.756 -18.763 100.202  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   6  12
+ATOM     12  N1  UNK     1      49.639 -22.067  98.863  0.00  0.00    +0.000 NA
+ATOM     29  H10 UNK     1      50.499 -22.574  98.919  0.00  0.00    +0.000 HD
+ATOM     30  H11 UNK     1      48.984 -22.582  98.311  0.00  0.00    +0.000 HD
+ENDBRANCH   6  12
+BRANCH  16   9
+ATOM      9  C9  UNK     1      45.929 -19.532 102.976  0.00  0.00    +0.000 C 
+ATOM     27  H8  UNK     1      45.730 -20.576 103.261  0.00  0.00    +0.000 HD
+BRANCH   9   3
+ATOM      3  C3  UNK     1      44.722 -18.659 102.759  0.00  0.00    +0.000 C 
+ATOM      8  C8  UNK     1      43.602 -19.444 102.589  0.00  0.00    +0.000 C 
+ATOM     22  H3  UNK     1      44.876 -18.043 101.860  0.00  0.00    +0.000 HD
+ATOM     23  H4  UNK     1      44.582 -18.006 103.633  0.00  0.00    +0.000 HD
+ENDBRANCH   9   3
+BRANCH   9  10
+ATOM     10  C10 UNK     1      46.636 -18.737 104.146  0.00  0.00    +0.000 C 
+ATOM     28  H9  UNK     1      47.323 -17.991 103.719  0.00  0.00    +0.000 HD
+BRANCH  10  11
+ATOM     11  C11 UNK     1      45.519 -18.157 104.955  0.00  0.00    +0.000 C 
+ATOM     19  O3  UNK     1      45.603 -17.066 105.468  0.00  0.00    +0.000 OA
+ENDBRANCH  10  11
+BRANCH  10  18
+ATOM     18  O2  UNK     1      47.418 -19.563 104.995  0.00  0.00    +0.000 OA
+ATOM     32  H13 UNK     1      46.890 -19.853 105.729  0.00  0.00    +0.000 HD
+ENDBRANCH  10  18
+ENDBRANCH   9  10
+ENDBRANCH  16   9
+TORSDOF 8
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -7.3      4.534      7.317
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\sahh\sahh-lig.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_3  and  C9_9
+REMARK    2  A    between atoms: C6_6  and  N1_12
+REMARK    3  A    between atoms: C9_9  and  C10_10
+REMARK    4  A    between atoms: C9_9  and  N5_16
+REMARK    5  A    between atoms: C10_10  and  C11_11
+REMARK    6  A    between atoms: C10_10  and  O2_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNK     1      42.598 -14.279 104.324  0.00  0.00    +0.000 C 
+ATOM      2  C2  UNK     1      41.862 -18.425 102.992  0.00  0.00    +0.000 A 
+ATOM      5  C5  UNK     1      41.176 -16.555 103.790  0.00  0.00    +0.000 A 
+ATOM      6  C6  UNK     1      40.497 -15.404 104.337  0.00  0.00    +0.000 C 
+ATOM      7  C7  UNK     1      42.586 -16.421 103.565  0.00  0.00    +0.000 A 
+ATOM     13  N2  UNK     1      41.304 -14.282 104.579  0.00  0.00    +0.000 NA
+ATOM     14  N3  UNK     1      43.344 -15.290 103.818  0.00  0.00    +0.000 NA
+ATOM     15  N4  UNK     1      40.789 -17.842 103.401  0.00  0.00    +0.000 NA
+ATOM     16  N5  UNK     1      42.984 -17.603 103.077  0.00  0.00    +0.000 N 
+ATOM     20  H1  UNK     1      43.126 -13.364 104.546  0.00  0.00    +0.000 HD
+ATOM     21  H2  UNK     1      41.889 -19.441 102.625  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   6  12
+ATOM     12  N1  UNK     1      39.153 -15.396 104.611  0.00  0.00    +0.000 NA
+ATOM     29  H10 UNK     1      38.661 -15.869 103.881  0.00  0.00    +0.000 HD
+ATOM     30  H11 UNK     1      38.987 -15.861 105.480  0.00  0.00    +0.000 HD
+ENDBRANCH   6  12
+BRANCH  16   9
+ATOM      9  C9  UNK     1      44.347 -17.932 102.689  0.00  0.00    +0.000 C 
+ATOM     27  H8  UNK     1      44.608 -16.869 102.582  0.00  0.00    +0.000 HD
+BRANCH   9   3
+ATOM      3  C3  UNK     1      44.525 -18.789 101.463  0.00  0.00    +0.000 C 
+ATOM      8  C8  UNK     1      45.861 -19.078 101.285  0.00  0.00    +0.000 C 
+ATOM     22  H3  UNK     1      44.147 -18.248 100.583  0.00  0.00    +0.000 HD
+ATOM     23  H4  UNK     1      43.962 -19.726 101.589  0.00  0.00    +0.000 HD
+ENDBRANCH   9   3
+BRANCH   9  10
+ATOM     10  C10 UNK     1      45.328 -18.672 103.685  0.00  0.00    +0.000 C 
+ATOM     28  H9  UNK     1      46.022 -19.306 103.112  0.00  0.00    +0.000 HD
+BRANCH  10  11
+ATOM     11  C11 UNK     1      45.988 -17.581 104.467  0.00  0.00    +0.000 C 
+ATOM     19  O3  UNK     1      45.503 -17.143 105.483  0.00  0.00    +0.000 OA
+ENDBRANCH  10  11
+BRANCH  10  18
+ATOM     18  O2  UNK     1      44.660 -19.532 104.596  0.00  0.00    +0.000 OA
+ATOM     32  H13 UNK     1      45.119 -19.531 105.427  0.00  0.00    +0.000 HD
+ENDBRANCH  10  18
+ENDBRANCH   9  10
+ENDBRANCH  16   9
+TORSDOF 8
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -7.2      3.301      6.109
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\sahh\sahh-lig.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_3  and  C9_9
+REMARK    2  A    between atoms: C6_6  and  N1_12
+REMARK    3  A    between atoms: C9_9  and  C10_10
+REMARK    4  A    between atoms: C9_9  and  N5_16
+REMARK    5  A    between atoms: C10_10  and  C11_11
+REMARK    6  A    between atoms: C10_10  and  O2_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNK     1      43.433 -17.125 101.480  0.00  0.00    +0.000 C 
+ATOM      2  C2  UNK     1      46.901 -18.189 103.999  0.00  0.00    +0.000 A 
+ATOM      5  C5  UNK     1      45.203 -16.952 103.558  0.00  0.00    +0.000 A 
+ATOM      6  C6  UNK     1      44.126 -15.995 103.460  0.00  0.00    +0.000 C 
+ATOM      7  C7  UNK     1      45.272 -17.949 102.530  0.00  0.00    +0.000 A 
+ATOM     13  N2  UNK     1      43.266 -16.160 102.363  0.00  0.00    +0.000 NA
+ATOM     14  N3  UNK     1      44.398 -18.074 101.462  0.00  0.00    +0.000 NA
+ATOM     15  N4  UNK     1      46.257 -17.170 104.452  0.00  0.00    +0.000 NA
+ATOM     16  N5  UNK     1      46.343 -18.696 102.826  0.00  0.00    +0.000 N 
+ATOM     20  H1  UNK     1      42.714 -17.163 100.675  0.00  0.00    +0.000 HD
+ATOM     21  H2  UNK     1      47.777 -18.604 104.474  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   6  12
+ATOM     12  N1  UNK     1      43.946 -14.985 104.369  0.00  0.00    +0.000 NA
+ATOM     29  H10 UNK     1      43.291 -14.322 104.006  0.00  0.00    +0.000 HD
+ATOM     30  H11 UNK     1      43.595 -15.364 105.225  0.00  0.00    +0.000 HD
+ENDBRANCH   6  12
+BRANCH  16   9
+ATOM      9  C9  UNK     1      46.803 -19.843 102.058  0.00  0.00    +0.000 C 
+ATOM     27  H8  UNK     1      45.807 -20.308 102.095  0.00  0.00    +0.000 HD
+BRANCH   9   3
+ATOM      3  C3  UNK     1      47.936 -20.647 102.637  0.00  0.00    +0.000 C 
+ATOM      8  C8  UNK     1      47.579 -21.131 103.879  0.00  0.00    +0.000 C 
+ATOM     22  H3  UNK     1      48.825 -20.007 102.737  0.00  0.00    +0.000 HD
+ATOM     23  H4  UNK     1      48.163 -21.491 101.969  0.00  0.00    +0.000 HD
+ENDBRANCH   9   3
+BRANCH   9  10
+ATOM     10  C10 UNK     1      47.313 -19.682 100.570  0.00  0.00    +0.000 C 
+ATOM     28  H9  UNK     1      47.783 -18.695 100.448  0.00  0.00    +0.000 HD
+BRANCH  10  11
+ATOM     11  C11 UNK     1      48.236 -20.838 100.347  0.00  0.00    +0.000 C 
+ATOM     19  O3  UNK     1      49.065 -20.831  99.468  0.00  0.00    +0.000 OA
+ENDBRANCH  10  11
+BRANCH  10  18
+ATOM     18  O2  UNK     1      46.272 -19.752  99.608  0.00  0.00    +0.000 OA
+ATOM     32  H13 UNK     1      45.553 -19.192  99.878  0.00  0.00    +0.000 HD
+ENDBRANCH  10  18
+ENDBRANCH   9  10
+ENDBRANCH  16   9
+TORSDOF 8
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -7.0      1.541      1.905
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\sahh\sahh-lig.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_3  and  C9_9
+REMARK    2  A    between atoms: C6_6  and  N1_12
+REMARK    3  A    between atoms: C9_9  and  C10_10
+REMARK    4  A    between atoms: C9_9  and  N5_16
+REMARK    5  A    between atoms: C10_10  and  C11_11
+REMARK    6  A    between atoms: C10_10  and  O2_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNK     1      48.301 -21.367 103.360  0.00  0.00    +0.000 C 
+ATOM      2  C2  UNK     1      45.476 -18.764 101.181  0.00  0.00    +0.000 A 
+ATOM      5  C5  UNK     1      47.070 -20.201 101.214  0.00  0.00    +0.000 A 
+ATOM      6  C6  UNK     1      48.137 -21.148 100.993  0.00  0.00    +0.000 C 
+ATOM      7  C7  UNK     1      46.725 -19.928 102.578  0.00  0.00    +0.000 A 
+ATOM     13  N2  UNK     1      48.710 -21.697 102.151  0.00  0.00    +0.000 NA
+ATOM     14  N3  UNK     1      47.319 -20.496 103.693  0.00  0.00    +0.000 NA
+ATOM     15  N4  UNK     1      46.237 -19.436 100.389  0.00  0.00    +0.000 NA
+ATOM     16  N5  UNK     1      45.738 -19.025 102.525  0.00  0.00    +0.000 N 
+ATOM     20  H1  UNK     1      48.808 -21.849 104.183  0.00  0.00    +0.000 HD
+ATOM     21  H2  UNK     1      44.719 -18.073 100.841  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   6  12
+ATOM     12  N1  UNK     1      48.575 -21.495  99.740  0.00  0.00    +0.000 NA
+ATOM     29  H10 UNK     1      48.323 -20.780  99.088  0.00  0.00    +0.000 HD
+ATOM     30  H11 UNK     1      49.569 -21.599  99.752  0.00  0.00    +0.000 HD
+ENDBRANCH   6  12
+BRANCH  16   9
+ATOM      9  C9  UNK     1      45.061 -18.455 103.680  0.00  0.00    +0.000 C 
+ATOM     27  H8  UNK     1      45.462 -19.237 104.341  0.00  0.00    +0.000 HD
+BRANCH   9   3
+ATOM      3  C3  UNK     1      43.561 -18.345 103.611  0.00  0.00    +0.000 C 
+ATOM      8  C8  UNK     1      42.984 -19.414 104.264  0.00  0.00    +0.000 C 
+ATOM     22  H3  UNK     1      43.243 -18.346 102.558  0.00  0.00    +0.000 HD
+ATOM     23  H4  UNK     1      43.242 -17.409 104.092  0.00  0.00    +0.000 HD
+ENDBRANCH   9   3
+BRANCH   9  10
+ATOM     10  C10 UNK     1      45.418 -17.008 104.209  0.00  0.00    +0.000 C 
+ATOM     28  H9  UNK     1      46.420 -16.725 103.854  0.00  0.00    +0.000 HD
+BRANCH  10  11
+ATOM     11  C11 UNK     1      44.315 -16.128 103.714  0.00  0.00    +0.000 C 
+ATOM     19  O3  UNK     1      44.039 -15.085 104.258  0.00  0.00    +0.000 OA
+ENDBRANCH  10  11
+BRANCH  10  18
+ATOM     18  O2  UNK     1      45.456 -16.922 105.625  0.00  0.00    +0.000 OA
+ATOM     32  H13 UNK     1      45.384 -17.793 105.997  0.00  0.00    +0.000 HD
+ENDBRANCH  10  18
+ENDBRANCH   9  10
+ENDBRANCH  16   9
+TORSDOF 8
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -7.0      3.417      6.161
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\sahh\sahh-lig.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_3  and  C9_9
+REMARK    2  A    between atoms: C6_6  and  N1_12
+REMARK    3  A    between atoms: C9_9  and  C10_10
+REMARK    4  A    between atoms: C9_9  and  N5_16
+REMARK    5  A    between atoms: C10_10  and  C11_11
+REMARK    6  A    between atoms: C10_10  and  O2_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNK     1      43.871 -15.092 104.042  0.00  0.00    +0.000 C 
+ATOM      2  C2  UNK     1      43.672 -18.810 101.669  0.00  0.00    +0.000 A 
+ATOM      5  C5  UNK     1      42.764 -17.040 102.472  0.00  0.00    +0.000 A 
+ATOM      6  C6  UNK     1      41.951 -15.929 102.905  0.00  0.00    +0.000 C 
+ATOM      7  C7  UNK     1      44.129 -17.047 102.912  0.00  0.00    +0.000 A 
+ATOM     13  N2  UNK     1      42.601 -14.976 103.706  0.00  0.00    +0.000 NA
+ATOM     14  N3  UNK     1      44.730 -16.082 103.704  0.00  0.00    +0.000 NA
+ATOM     15  N4  UNK     1      42.550 -18.179 101.688  0.00  0.00    +0.000 NA
+ATOM     16  N5  UNK     1      44.664 -18.163 102.404  0.00  0.00    +0.000 N 
+ATOM     20  H1  UNK     1      44.273 -14.303 104.661  0.00  0.00    +0.000 HD
+ATOM     21  H2  UNK     1      43.827 -19.740 101.141  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   6  12
+ATOM     12  N1  UNK     1      40.628 -15.800 102.566  0.00  0.00    +0.000 NA
+ATOM     29  H10 UNK     1      40.410 -16.435 101.826  0.00  0.00    +0.000 HD
+ATOM     30  H11 UNK     1      40.059 -16.008 103.361  0.00  0.00    +0.000 HD
+ENDBRANCH   6  12
+BRANCH  16   9
+ATOM      9  C9  UNK     1      46.044 -18.587 102.582  0.00  0.00    +0.000 C 
+ATOM     27  H8  UNK     1      46.422 -17.658 102.131  0.00  0.00    +0.000 HD
+BRANCH   9   3
+ATOM      3  C3  UNK     1      46.460 -19.871 101.913  0.00  0.00    +0.000 C 
+ATOM      8  C8  UNK     1      46.921 -19.606 100.640  0.00  0.00    +0.000 C 
+ATOM     22  H3  UNK     1      45.596 -20.548 101.855  0.00  0.00    +0.000 HD
+ATOM     23  H4  UNK     1      47.261 -20.345 102.500  0.00  0.00    +0.000 HD
+ENDBRANCH   9   3
+BRANCH   9  10
+ATOM     10  C10 UNK     1      46.652 -18.820 104.023  0.00  0.00    +0.000 C 
+ATOM     28  H9  UNK     1      45.835 -18.914 104.755  0.00  0.00    +0.000 HD
+BRANCH  10  11
+ATOM     11  C11 UNK     1      47.508 -20.040 103.894  0.00  0.00    +0.000 C 
+ATOM     19  O3  UNK     1      48.250 -20.395 104.780  0.00  0.00    +0.000 OA
+ENDBRANCH  10  11
+BRANCH  10  18
+ATOM     18  O2  UNK     1      47.468 -17.748 104.469  0.00  0.00    +0.000 OA
+ATOM     32  H13 UNK     1      47.011 -16.926 104.336  0.00  0.00    +0.000 HD
+ENDBRANCH  10  18
+ENDBRANCH   9  10
+ENDBRANCH  16   9
+TORSDOF 8
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -7.0      2.923      4.600
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\sahh\sahh-lig.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_3  and  C9_9
+REMARK    2  A    between atoms: C6_6  and  N1_12
+REMARK    3  A    between atoms: C9_9  and  C10_10
+REMARK    4  A    between atoms: C9_9  and  N5_16
+REMARK    5  A    between atoms: C10_10  and  C11_11
+REMARK    6  A    between atoms: C10_10  and  O2_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNK     1      47.038 -20.082 101.508  0.00  0.00    +0.000 C 
+ATOM      2  C2  UNK     1      44.897 -17.527 104.405  0.00  0.00    +0.000 A 
+ATOM      5  C5  UNK     1      46.399 -18.985 103.932  0.00  0.00    +0.000 A 
+ATOM      6  C6  UNK     1      47.455 -19.965 103.852  0.00  0.00    +0.000 C 
+ATOM      7  C7  UNK     1      45.738 -18.651 102.704  0.00  0.00    +0.000 A 
+ATOM     13  N2  UNK     1      47.716 -20.474 102.569  0.00  0.00    +0.000 NA
+ATOM     14  N3  UNK     1      46.030 -19.179 101.457  0.00  0.00    +0.000 NA
+ATOM     15  N4  UNK     1      45.820 -18.234 104.960  0.00  0.00    +0.000 NA
+ATOM     16  N5  UNK     1      44.805 -17.750 103.032  0.00  0.00    +0.000 N 
+ATOM     20  H1  UNK     1      47.319 -20.535 100.569  0.00  0.00    +0.000 HD
+ATOM     21  H2  UNK     1      44.264 -16.838 104.945  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   6  12
+ATOM     12  N1  UNK     1      48.164 -20.384 104.948  0.00  0.00    +0.000 NA
+ATOM     29  H10 UNK     1      48.919 -20.970 104.654  0.00  0.00    +0.000 HD
+ATOM     30  H11 UNK     1      48.529 -19.590 105.434  0.00  0.00    +0.000 HD
+ENDBRANCH   6  12
+BRANCH  16   9
+ATOM      9  C9  UNK     1      43.889 -17.114 102.098  0.00  0.00    +0.000 C 
+ATOM     27  H8  UNK     1      44.687 -16.987 101.352  0.00  0.00    +0.000 HD
+BRANCH   9   3
+ATOM      3  C3  UNK     1      43.201 -15.856 102.559  0.00  0.00    +0.000 C 
+ATOM      8  C8  UNK     1      43.958 -14.756 102.213  0.00  0.00    +0.000 C 
+ATOM     22  H3  UNK     1      43.080 -15.886 103.652  0.00  0.00    +0.000 HD
+ATOM     23  H4  UNK     1      42.213 -15.784 102.081  0.00  0.00    +0.000 HD
+ENDBRANCH   9   3
+BRANCH   9  10
+ATOM     10  C10 UNK     1      42.653 -17.897 101.498  0.00  0.00    +0.000 C 
+ATOM     28  H9  UNK     1      42.931 -18.949 101.332  0.00  0.00    +0.000 HD
+BRANCH  10  11
+ATOM     11  C11 UNK     1      41.547 -17.699 102.485  0.00  0.00    +0.000 C 
+ATOM     19  O3  UNK     1      41.159 -18.595 103.197  0.00  0.00    +0.000 OA
+ENDBRANCH  10  11
+BRANCH  10  18
+ATOM     18  O2  UNK     1      42.225 -17.393 100.242  0.00  0.00    +0.000 OA
+ATOM     32  H13 UNK     1      42.814 -16.703  99.960  0.00  0.00    +0.000 HD
+ENDBRANCH  10  18
+ENDBRANCH   9  10
+ENDBRANCH  16   9
+TORSDOF 8
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -6.9      4.022      6.859
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\sahh\sahh-lig.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_3  and  C9_9
+REMARK    2  A    between atoms: C6_6  and  N1_12
+REMARK    3  A    between atoms: C9_9  and  C10_10
+REMARK    4  A    between atoms: C9_9  and  N5_16
+REMARK    5  A    between atoms: C10_10  and  C11_11
+REMARK    6  A    between atoms: C10_10  and  O2_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNK     1      42.772 -15.721 101.924  0.00  0.00    +0.000 C 
+ATOM      2  C2  UNK     1      43.162 -19.256 104.541  0.00  0.00    +0.000 A 
+ATOM      5  C5  UNK     1      42.105 -17.508 103.884  0.00  0.00    +0.000 A 
+ATOM      6  C6  UNK     1      41.233 -16.389 103.617  0.00  0.00    +0.000 C 
+ATOM      7  C7  UNK     1      43.292 -17.603 103.086  0.00  0.00    +0.000 A 
+ATOM     13  N2  UNK     1      41.653 -15.524 102.594  0.00  0.00    +0.000 NA
+ATOM     14  N3  UNK     1      43.667 -16.724 102.084  0.00  0.00    +0.000 NA
+ATOM     15  N4  UNK     1      42.087 -18.587 104.775  0.00  0.00    +0.000 NA
+ATOM     16  N5  UNK     1      43.932 -18.695 103.524  0.00  0.00    +0.000 N 
+ATOM     20  H1  UNK     1      43.001 -14.996 101.157  0.00  0.00    +0.000 HD
+ATOM     21  H2  UNK     1      43.437 -20.154 105.075  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   6  12
+ATOM     12  N1  UNK     1      40.071 -16.170 104.310  0.00  0.00    +0.000 NA
+ATOM     29  H10 UNK     1      40.274 -15.683 105.159  0.00  0.00    +0.000 HD
+ATOM     30  H11 UNK     1      39.448 -15.622 103.752  0.00  0.00    +0.000 HD
+ENDBRANCH   6  12
+BRANCH  16   9
+ATOM      9  C9  UNK     1      45.192 -19.195 102.996  0.00  0.00    +0.000 C 
+ATOM     27  H8  UNK     1      44.786 -20.212 102.903  0.00  0.00    +0.000 HD
+BRANCH   9   3
+ATOM      3  C3  UNK     1      46.411 -19.041 103.867  0.00  0.00    +0.000 C 
+ATOM      8  C8  UNK     1      46.482 -17.750 104.346  0.00  0.00    +0.000 C 
+ATOM     22  H3  UNK     1      47.312 -19.261 103.275  0.00  0.00    +0.000 HD
+ATOM     23  H4  UNK     1      46.346 -19.741 104.713  0.00  0.00    +0.000 HD
+ENDBRANCH   9   3
+BRANCH   9  10
+ATOM     10  C10 UNK     1      45.770 -18.673 101.620  0.00  0.00    +0.000 C 
+ATOM     28  H9  UNK     1      46.012 -17.603 101.706  0.00  0.00    +0.000 HD
+BRANCH  10  11
+ATOM     11  C11 UNK     1      46.947 -19.551 101.333  0.00  0.00    +0.000 C 
+ATOM     19  O3  UNK     1      47.505 -19.539 100.261  0.00  0.00    +0.000 OA
+ENDBRANCH  10  11
+BRANCH  10  18
+ATOM     18  O2  UNK     1      44.853 -18.792 100.544  0.00  0.00    +0.000 OA
+ATOM     32  H13 UNK     1      43.992 -18.509 100.829  0.00  0.00    +0.000 HD
+ENDBRANCH  10  18
+ENDBRANCH   9  10
+ENDBRANCH  16   9
+TORSDOF 8
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -6.9      2.768      3.994
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\sahh\sahh-lig.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_3  and  C9_9
+REMARK    2  A    between atoms: C6_6  and  N1_12
+REMARK    3  A    between atoms: C9_9  and  C10_10
+REMARK    4  A    between atoms: C9_9  and  N5_16
+REMARK    5  A    between atoms: C10_10  and  C11_11
+REMARK    6  A    between atoms: C10_10  and  O2_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNK     1      46.978 -19.036 104.322  0.00  0.00    +0.000 C 
+ATOM      2  C2  UNK     1      43.945 -18.001 101.283  0.00  0.00    +0.000 A 
+ATOM      5  C5  UNK     1      45.725 -19.035 101.890  0.00  0.00    +0.000 A 
+ATOM      6  C6  UNK     1      46.929 -19.811 102.069  0.00  0.00    +0.000 C 
+ATOM      7  C7  UNK     1      45.262 -18.296 103.028  0.00  0.00    +0.000 A 
+ATOM     13  N2  UNK     1      47.503 -19.753 103.348  0.00  0.00    +0.000 NA
+ATOM     14  N3  UNK     1      45.862 -18.270 104.277  0.00  0.00    +0.000 NA
+ATOM     15  N4  UNK     1      44.842 -18.805 100.829  0.00  0.00    +0.000 NA
+ATOM     16  N5  UNK     1      44.159 -17.658 102.617  0.00  0.00    +0.000 N 
+ATOM     20  H1  UNK     1      47.498 -19.062 105.268  0.00  0.00    +0.000 HD
+ATOM     21  H2  UNK     1      43.117 -17.632 100.695  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   6  12
+ATOM     12  N1  UNK     1      47.488 -20.556 101.063  0.00  0.00    +0.000 NA
+ATOM     29  H10 UNK     1      46.824 -20.674 100.326  0.00  0.00    +0.000 HD
+ATOM     30  H11 UNK     1      48.297 -20.087 100.710  0.00  0.00    +0.000 HD
+ENDBRANCH   6  12
+BRANCH  16   9
+ATOM      9  C9  UNK     1      43.338 -16.787 103.444  0.00  0.00    +0.000 C 
+ATOM     27  H8  UNK     1      43.871 -17.095 104.355  0.00  0.00    +0.000 HD
+BRANCH   9   3
+ATOM      3  C3  UNK     1      41.851 -17.028 103.429  0.00  0.00    +0.000 C 
+ATOM      8  C8  UNK     1      41.564 -18.217 104.067  0.00  0.00    +0.000 C 
+ATOM     22  H3  UNK     1      41.501 -17.079 102.388  0.00  0.00    +0.000 HD
+ATOM     23  H4  UNK     1      41.343 -16.203 103.949  0.00  0.00    +0.000 HD
+ENDBRANCH   9   3
+BRANCH   9  10
+ATOM     10  C10 UNK     1      43.363 -15.217 103.260  0.00  0.00    +0.000 C 
+ATOM     28  H9  UNK     1      43.313 -14.972 102.189  0.00  0.00    +0.000 HD
+BRANCH  10  11
+ATOM     11  C11 UNK     1      42.206 -14.711 104.064  0.00  0.00    +0.000 C 
+ATOM     19  O3  UNK     1      42.364 -14.020 105.042  0.00  0.00    +0.000 OA
+ENDBRANCH  10  11
+BRANCH  10  18
+ATOM     18  O2  UNK     1      44.547 -14.612 103.756  0.00  0.00    +0.000 OA
+ATOM     32  H13 UNK     1      45.263 -15.235 103.711  0.00  0.00    +0.000 HD
+ENDBRANCH  10  18
+ENDBRANCH   9  10
+ENDBRANCH  16   9
+TORSDOF 8
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -6.9      1.979      3.122
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\sahh\sahh-lig.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_3  and  C9_9
+REMARK    2  A    between atoms: C6_6  and  N1_12
+REMARK    3  A    between atoms: C9_9  and  C10_10
+REMARK    4  A    between atoms: C9_9  and  N5_16
+REMARK    5  A    between atoms: C10_10  and  C11_11
+REMARK    6  A    between atoms: C10_10  and  O2_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNK     1      47.906 -20.787 100.030  0.00  0.00    +0.000 C 
+ATOM      2  C2  UNK     1      47.222 -19.984 104.319  0.00  0.00    +0.000 A 
+ATOM      5  C5  UNK     1      48.134 -21.112 102.737  0.00  0.00    +0.000 A 
+ATOM      6  C6  UNK     1      48.844 -22.004 101.852  0.00  0.00    +0.000 C 
+ATOM      7  C7  UNK     1      47.335 -20.095 102.119  0.00  0.00    +0.000 A 
+ATOM     13  N2  UNK     1      48.670 -21.763 100.480  0.00  0.00    +0.000 NA
+ATOM     14  N3  UNK     1      47.193 -19.893 100.755  0.00  0.00    +0.000 NA
+ATOM     15  N4  UNK     1      48.019 -20.976 104.125  0.00  0.00    +0.000 NA
+ATOM     16  N5  UNK     1      46.774 -19.416 103.127  0.00  0.00    +0.000 N 
+ATOM     20  H1  UNK     1      47.842 -20.688  98.957  0.00  0.00    +0.000 HD
+ATOM     21  H2  UNK     1      46.932 -19.631 105.297  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   6  12
+ATOM     12  N1  UNK     1      49.637 -23.026 102.307  0.00  0.00    +0.000 NA
+ATOM     29  H10 UNK     1      49.408 -23.228 103.259  0.00  0.00    +0.000 HD
+ATOM     30  H11 UNK     1      49.484 -23.841 101.748  0.00  0.00    +0.000 HD
+ENDBRANCH   6  12
+BRANCH  16   9
+ATOM      9  C9  UNK     1      45.881 -18.278 102.977  0.00  0.00    +0.000 C 
+ATOM     27  H8  UNK     1      46.398 -17.953 102.062  0.00  0.00    +0.000 HD
+BRANCH   9   3
+ATOM      3  C3  UNK     1      45.839 -17.284 104.107  0.00  0.00    +0.000 C 
+ATOM      8  C8  UNK     1      44.738 -16.465 103.968  0.00  0.00    +0.000 C 
+ATOM     22  H3  UNK     1      46.753 -16.673 104.089  0.00  0.00    +0.000 HD
+ATOM     23  H4  UNK     1      45.775 -17.823 105.064  0.00  0.00    +0.000 HD
+ENDBRANCH   9   3
+BRANCH   9  10
+ATOM     10  C10 UNK     1      44.332 -18.477 102.729  0.00  0.00    +0.000 C 
+ATOM     28  H9  UNK     1      43.767 -17.767 103.351  0.00  0.00    +0.000 HD
+BRANCH  10  11
+ATOM     11  C11 UNK     1      44.145 -18.293 101.256  0.00  0.00    +0.000 C 
+ATOM     19  O3  UNK     1      43.476 -17.394 100.806  0.00  0.00    +0.000 OA
+ENDBRANCH  10  11
+BRANCH  10  18
+ATOM     18  O2  UNK     1      43.870 -19.772 103.078  0.00  0.00    +0.000 OA
+ATOM     32  H13 UNK     1      43.973 -19.904 104.013  0.00  0.00    +0.000 HD
+ENDBRANCH  10  18
+ENDBRANCH   9  10
+ENDBRANCH  16   9
+TORSDOF 8
+ENDMDL

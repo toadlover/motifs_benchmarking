@@ -1,0 +1,468 @@
+MODEL 1
+REMARK VINA RESULT:      -8.2      0.000      0.000
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\drd3\drd3-lig.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N1_3  and  C9_15
+REMARK    2  A    between atoms: C2_5  and  C16_22
+REMARK    3  A    between atoms: N2_6  and  C14_20
+REMARK    4  A    between atoms: O2_7  and  C5_11
+REMARK    5  A    between atoms: C7_13  and  C8_14
+REMARK    6  A    between atoms: C9_15  and  C10_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CL1 ETQ  1200      12.424  18.724  22.741  0.00  0.00    +0.000 C 
+ATOM      2  C1  ETQ  1200       8.034  19.696  22.443  0.00  0.00    +0.000 A 
+ATOM      4  O1  ETQ  1200       6.710  19.987  22.340  0.00  0.00    +0.000 OA
+ATOM      5  C2  ETQ  1200       8.457  18.375  22.256  0.00  0.00    +0.000 A 
+ATOM      8  C3  ETQ  1200       9.822  18.090  22.334  0.00  0.00    +0.000 A 
+ATOM     10  C4  ETQ  1200      10.740  19.098  22.618  0.00  0.00    +0.000 A 
+ATOM     11  C5  ETQ  1200      10.312  20.407  22.826  0.00  0.00    +0.000 A 
+ATOM     13  C7  ETQ  1200       8.947  20.716  22.750  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  13  14
+ATOM      3  N1  ETQ  1200       7.557  22.361  23.912  0.00  0.00    +0.000 NA
+ATOM      9  O3  ETQ  1200       8.860  23.066  22.207  0.00  0.00    +0.000 OA
+ATOM     14  C8  ETQ  1200       8.428  22.163  22.919  0.00  0.00    +0.000 C 
+BRANCH   3  15
+ATOM     15  C9  ETQ  1200       6.981  23.681  24.239  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM      6  N2  ETQ  1200       7.846  24.412  26.432  0.00  0.00    +0.000 NA
+ATOM     16  C10 ETQ  1200       6.691  23.805  25.739  0.00  0.00    +0.000 C 
+ATOM     17  C11 ETQ  1200       5.513  24.752  25.953  0.00  0.00    +0.000 C 
+ATOM     18  C12 ETQ  1200       6.194  26.103  26.100  0.00  0.00    +0.000 C 
+ATOM     19  C13 ETQ  1200       7.428  25.745  26.914  0.00  0.00    +0.000 C 
+BRANCH   6  20
+ATOM     20  C14 ETQ  1200       8.214  23.562  27.573  0.00  0.00    +0.000 C 
+ATOM     21  C15 ETQ  1200       9.262  22.542  27.153  0.00  0.00    +0.000 C 
+ENDBRANCH   6  20
+ENDBRANCH  15  16
+ENDBRANCH   3  15
+ENDBRANCH  13  14
+BRANCH  11   7
+ATOM      7  O2  ETQ  1200      11.236  21.358  23.126  0.00  0.00    +0.000 OA
+ATOM     12  C6  ETQ  1200      11.496  21.318  24.536  0.00  0.00    +0.000 C 
+ENDBRANCH  11   7
+BRANCH   5  22
+ATOM     22  C16 ETQ  1200       7.526  17.204  21.892  0.00  0.00    +0.000 C 
+ATOM     23  C17 ETQ  1200       7.051  16.422  23.119  0.00  0.00    +0.000 C 
+ENDBRANCH   5  22
+TORSDOF 6
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -8.1      1.435      1.974
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\drd3\drd3-lig.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N1_3  and  C9_15
+REMARK    2  A    between atoms: C2_5  and  C16_22
+REMARK    3  A    between atoms: N2_6  and  C14_20
+REMARK    4  A    between atoms: O2_7  and  C5_11
+REMARK    5  A    between atoms: C7_13  and  C8_14
+REMARK    6  A    between atoms: C9_15  and  C10_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CL1 ETQ  1200      12.380  18.438  22.264  0.00  0.00    +0.000 C 
+ATOM      2  C1  ETQ  1200       8.047  19.651  22.508  0.00  0.00    +0.000 A 
+ATOM      4  O1  ETQ  1200       6.739  20.018  22.568  0.00  0.00    +0.000 OA
+ATOM      5  C2  ETQ  1200       8.374  18.372  22.045  0.00  0.00    +0.000 A 
+ATOM      8  C3  ETQ  1200       9.722  18.014  21.959  0.00  0.00    +0.000 A 
+ATOM     10  C4  ETQ  1200      10.717  18.906  22.349  0.00  0.00    +0.000 A 
+ATOM     11  C5  ETQ  1200      10.385  20.171  22.831  0.00  0.00    +0.000 A 
+ATOM     13  C7  ETQ  1200       9.039  20.551  22.924  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  13  14
+ATOM      3  N1  ETQ  1200       8.431  22.872  22.443  0.00  0.00    +0.000 NA
+ATOM      9  O3  ETQ  1200       8.425  22.183  24.594  0.00  0.00    +0.000 OA
+ATOM     14  C8  ETQ  1200       8.622  21.962  23.401  0.00  0.00    +0.000 C 
+BRANCH   3  15
+ATOM     15  C9  ETQ  1200       8.002  24.259  22.711  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM      6  N2  ETQ  1200       6.748  25.193  24.622  0.00  0.00    +0.000 NA
+ATOM     16  C10 ETQ  1200       6.660  24.293  23.453  0.00  0.00    +0.000 C 
+ATOM     17  C11 ETQ  1200       5.588  24.878  22.538  0.00  0.00    +0.000 C 
+ATOM     18  C12 ETQ  1200       5.656  26.364  22.851  0.00  0.00    +0.000 C 
+ATOM     19  C13 ETQ  1200       5.878  26.357  24.356  0.00  0.00    +0.000 C 
+BRANCH   6  20
+ATOM     20  C14 ETQ  1200       6.269  24.473  25.810  0.00  0.00    +0.000 C 
+ATOM     21  C15 ETQ  1200       5.294  25.340  26.593  0.00  0.00    +0.000 C 
+ENDBRANCH   6  20
+ENDBRANCH  15  16
+ENDBRANCH   3  15
+ENDBRANCH  13  14
+BRANCH  11   7
+ATOM      7  O2  ETQ  1200      11.384  21.003  23.227  0.00  0.00    +0.000 OA
+ATOM     12  C6  ETQ  1200      11.582  20.846  24.639  0.00  0.00    +0.000 C 
+ENDBRANCH  11   7
+BRANCH   5  22
+ATOM     22  C16 ETQ  1200       7.351  17.336  21.546  0.00  0.00    +0.000 C 
+ATOM     23  C17 ETQ  1200       7.023  16.274  22.599  0.00  0.00    +0.000 C 
+ENDBRANCH   5  22
+TORSDOF 6
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -7.7      4.485      6.927
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\drd3\drd3-lig.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N1_3  and  C9_15
+REMARK    2  A    between atoms: C2_5  and  C16_22
+REMARK    3  A    between atoms: N2_6  and  C14_20
+REMARK    4  A    between atoms: O2_7  and  C5_11
+REMARK    5  A    between atoms: C7_13  and  C8_14
+REMARK    6  A    between atoms: C9_15  and  C10_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CL1 ETQ  1200       6.053  22.904  22.860  0.00  0.00    +0.000 C 
+ATOM      2  C1  ETQ  1200       6.762  25.250  26.641  0.00  0.00    +0.000 A 
+ATOM      4  O1  ETQ  1200       6.969  25.948  27.789  0.00  0.00    +0.000 OA
+ATOM      5  C2  ETQ  1200       7.440  24.041  26.449  0.00  0.00    +0.000 A 
+ATOM      8  C3  ETQ  1200       7.198  23.315  25.280  0.00  0.00    +0.000 A 
+ATOM     10  C4  ETQ  1200       6.318  23.799  24.315  0.00  0.00    +0.000 A 
+ATOM     11  C5  ETQ  1200       5.663  25.015  24.501  0.00  0.00    +0.000 A 
+ATOM     13  C7  ETQ  1200       5.889  25.759  25.668  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  13  14
+ATOM      3  N1  ETQ  1200       3.909  26.974  26.435  0.00  0.00    +0.000 NA
+ATOM      9  O3  ETQ  1200       5.711  28.164  25.773  0.00  0.00    +0.000 OA
+ATOM     14  C8  ETQ  1200       5.146  27.086  25.945  0.00  0.00    +0.000 C 
+BRANCH   3  15
+ATOM     15  C9  ETQ  1200       3.064  28.133  26.787  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM      6  N2  ETQ  1200       3.571  27.137  28.988  0.00  0.00    +0.000 NA
+ATOM     16  C10 ETQ  1200       2.806  28.195  28.297  0.00  0.00    +0.000 C 
+ATOM     17  C11 ETQ  1200       3.316  29.525  28.846  0.00  0.00    +0.000 C 
+ATOM     18  C12 ETQ  1200       4.749  29.199  29.232  0.00  0.00    +0.000 C 
+ATOM     19  C13 ETQ  1200       4.608  27.798  29.807  0.00  0.00    +0.000 C 
+BRANCH   6  20
+ATOM     20  C14 ETQ  1200       2.657  26.381  29.856  0.00  0.00    +0.000 C 
+ATOM     21  C15 ETQ  1200       1.213  26.659  29.467  0.00  0.00    +0.000 C 
+ENDBRANCH   6  20
+ENDBRANCH  15  16
+ENDBRANCH   3  15
+ENDBRANCH  13  14
+BRANCH  11   7
+ATOM      7  O2  ETQ  1200       4.833  25.467  23.525  0.00  0.00    +0.000 OA
+ATOM     12  C6  ETQ  1200       5.589  26.278  22.616  0.00  0.00    +0.000 C 
+ENDBRANCH  11   7
+BRANCH   5  22
+ATOM     22  C16 ETQ  1200       8.392  23.401  27.475  0.00  0.00    +0.000 C 
+ATOM     23  C17 ETQ  1200       9.303  22.338  26.855  0.00  0.00    +0.000 C 
+ENDBRANCH   5  22
+TORSDOF 6
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -7.4      4.331      6.859
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\drd3\drd3-lig.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N1_3  and  C9_15
+REMARK    2  A    between atoms: C2_5  and  C16_22
+REMARK    3  A    between atoms: N2_6  and  C14_20
+REMARK    4  A    between atoms: O2_7  and  C5_11
+REMARK    5  A    between atoms: C7_13  and  C8_14
+REMARK    6  A    between atoms: C9_15  and  C10_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CL1 ETQ  1200       6.304  22.845  22.737  0.00  0.00    +0.000 C 
+ATOM      2  C1  ETQ  1200       6.938  25.092  26.591  0.00  0.00    +0.000 A 
+ATOM      4  O1  ETQ  1200       7.123  25.760  27.761  0.00  0.00    +0.000 OA
+ATOM      5  C2  ETQ  1200       7.641  23.902  26.369  0.00  0.00    +0.000 A 
+ATOM      8  C3  ETQ  1200       7.423  23.207  25.178  0.00  0.00    +0.000 A 
+ATOM     10  C4  ETQ  1200       6.541  23.702  24.220  0.00  0.00    +0.000 A 
+ATOM     11  C5  ETQ  1200       5.860  24.899  24.437  0.00  0.00    +0.000 A 
+ATOM     13  C7  ETQ  1200       6.063  25.612  25.626  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  13  14
+ATOM      3  N1  ETQ  1200       4.025  26.767  26.333  0.00  0.00    +0.000 NA
+ATOM      9  O3  ETQ  1200       5.857  28.004  25.873  0.00  0.00    +0.000 OA
+ATOM     14  C8  ETQ  1200       5.291  26.916  25.936  0.00  0.00    +0.000 C 
+BRANCH   3  15
+ATOM     15  C9  ETQ  1200       3.148  27.898  26.699  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM      6  N2  ETQ  1200       3.196  28.479  29.098  0.00  0.00    +0.000 NA
+ATOM     16  C10 ETQ  1200       2.499  27.677  28.070  0.00  0.00    +0.000 C 
+ATOM     17  C11 ETQ  1200       1.058  28.177  28.037  0.00  0.00    +0.000 C 
+ATOM     18  C12 ETQ  1200       1.196  29.625  28.476  0.00  0.00    +0.000 C 
+ATOM     19  C13 ETQ  1200       2.259  29.524  29.560  0.00  0.00    +0.000 C 
+BRANCH   6  20
+ATOM     20  C14 ETQ  1200       3.555  27.600  30.220  0.00  0.00    +0.000 C 
+ATOM     21  C15 ETQ  1200       5.053  27.333  30.221  0.00  0.00    +0.000 C 
+ENDBRANCH   6  20
+ENDBRANCH  15  16
+ENDBRANCH   3  15
+ENDBRANCH  13  14
+BRANCH  11   7
+ATOM      7  O2  ETQ  1200       5.028  25.363  23.467  0.00  0.00    +0.000 OA
+ATOM     12  C6  ETQ  1200       5.761  26.259  22.621  0.00  0.00    +0.000 C 
+ENDBRANCH  11   7
+BRANCH   5  22
+ATOM     22  C16 ETQ  1200       8.598  23.251  27.384  0.00  0.00    +0.000 C 
+ATOM     23  C17 ETQ  1200       9.401  22.095  26.782  0.00  0.00    +0.000 C 
+ENDBRANCH   5  22
+TORSDOF 6
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -7.3      3.632      5.986
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\drd3\drd3-lig.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N1_3  and  C9_15
+REMARK    2  A    between atoms: C2_5  and  C16_22
+REMARK    3  A    between atoms: N2_6  and  C14_20
+REMARK    4  A    between atoms: O2_7  and  C5_11
+REMARK    5  A    between atoms: C7_13  and  C8_14
+REMARK    6  A    between atoms: C9_15  and  C10_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CL1 ETQ  1200       8.586  23.248  27.342  0.00  0.00    +0.000 C 
+ATOM      2  C1  ETQ  1200       5.677  24.275  24.058  0.00  0.00    +0.000 A 
+ATOM      4  O1  ETQ  1200       4.810  24.589  23.059  0.00  0.00    +0.000 OA
+ATOM      5  C2  ETQ  1200       6.520  23.169  23.904  0.00  0.00    +0.000 A 
+ATOM      8  C3  ETQ  1200       7.429  22.871  24.922  0.00  0.00    +0.000 A 
+ATOM     10  C4  ETQ  1200       7.476  23.647  26.078  0.00  0.00    +0.000 A 
+ATOM     11  C5  ETQ  1200       6.618  24.734  26.236  0.00  0.00    +0.000 A 
+ATOM     13  C7  ETQ  1200       5.700  25.052  25.226  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  13  14
+ATOM      3  N1  ETQ  1200       3.652  26.109  26.047  0.00  0.00    +0.000 NA
+ATOM      9  O3  ETQ  1200       5.088  27.352  24.826  0.00  0.00    +0.000 OA
+ATOM     14  C8  ETQ  1200       4.766  26.279  25.331  0.00  0.00    +0.000 C 
+BRANCH   3  15
+ATOM     15  C9  ETQ  1200       2.661  27.179  26.279  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM      6  N2  ETQ  1200       3.711  26.924  28.499  0.00  0.00    +0.000 NA
+ATOM     16  C10 ETQ  1200       2.619  27.588  27.756  0.00  0.00    +0.000 C 
+ATOM     17  C11 ETQ  1200       2.869  29.089  27.875  0.00  0.00    +0.000 C 
+ATOM     18  C12 ETQ  1200       4.379  29.166  28.026  0.00  0.00    +0.000 C 
+ATOM     19  C13 ETQ  1200       4.666  27.969  28.919  0.00  0.00    +0.000 C 
+BRANCH   6  20
+ATOM     20  C14 ETQ  1200       3.143  26.262  29.682  0.00  0.00    +0.000 C 
+ATOM     21  C15 ETQ  1200       3.688  26.897  30.952  0.00  0.00    +0.000 C 
+ENDBRANCH   6  20
+ENDBRANCH  15  16
+ENDBRANCH   3  15
+ENDBRANCH  13  14
+BRANCH  11   7
+ATOM      7  O2  ETQ  1200       6.676  25.451  27.389  0.00  0.00    +0.000 OA
+ATOM     12  C6  ETQ  1200       7.469  26.624  27.163  0.00  0.00    +0.000 C 
+ENDBRANCH  11   7
+BRANCH   5  22
+ATOM     22  C16 ETQ  1200       6.576  22.282  22.647  0.00  0.00    +0.000 C 
+ATOM     23  C17 ETQ  1200       7.133  20.885  22.932  0.00  0.00    +0.000 C 
+ENDBRANCH   5  22
+TORSDOF 6
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -7.2      4.429      7.277
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\drd3\drd3-lig.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N1_3  and  C9_15
+REMARK    2  A    between atoms: C2_5  and  C16_22
+REMARK    3  A    between atoms: N2_6  and  C14_20
+REMARK    4  A    between atoms: O2_7  and  C5_11
+REMARK    5  A    between atoms: C7_13  and  C8_14
+REMARK    6  A    between atoms: C9_15  and  C10_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CL1 ETQ  1200       5.797  23.143  22.873  0.00  0.00    +0.000 C 
+ATOM      2  C1  ETQ  1200       7.119  25.025  26.747  0.00  0.00    +0.000 A 
+ATOM      4  O1  ETQ  1200       7.511  25.584  27.923  0.00  0.00    +0.000 OA
+ATOM      5  C2  ETQ  1200       7.661  23.792  26.366  0.00  0.00    +0.000 A 
+ATOM      8  C3  ETQ  1200       7.230  23.212  25.171  0.00  0.00    +0.000 A 
+ATOM     10  C4  ETQ  1200       6.298  23.860  24.364  0.00  0.00    +0.000 A 
+ATOM     11  C5  ETQ  1200       5.779  25.099  24.738  0.00  0.00    +0.000 A 
+ATOM     13  C7  ETQ  1200       6.196  25.698  25.934  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  13  14
+ATOM      3  N1  ETQ  1200       4.563  26.965  27.245  0.00  0.00    +0.000 NA
+ATOM      9  O3  ETQ  1200       6.136  28.106  26.094  0.00  0.00    +0.000 OA
+ATOM     14  C8  ETQ  1200       5.609  27.045  26.418  0.00  0.00    +0.000 C 
+BRANCH   3  15
+ATOM     15  C9  ETQ  1200       3.895  28.145  27.829  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM      6  N2  ETQ  1200       1.744  29.310  27.499  0.00  0.00    +0.000 NA
+ATOM     16  C10 ETQ  1200       2.370  28.001  27.782  0.00  0.00    +0.000 C 
+ATOM     17  C11 ETQ  1200       1.981  27.079  26.629  0.00  0.00    +0.000 C 
+ATOM     18  C12 ETQ  1200       1.799  28.048  25.473  0.00  0.00    +0.000 C 
+ATOM     19  C13 ETQ  1200       1.130  29.231  26.157  0.00  0.00    +0.000 C 
+BRANCH   6  20
+ATOM     20  C14 ETQ  1200       0.706  29.565  28.508  0.00  0.00    +0.000 C 
+ATOM     21  C15 ETQ  1200       1.329  29.662  29.892  0.00  0.00    +0.000 C 
+ENDBRANCH   6  20
+ENDBRANCH  15  16
+ENDBRANCH   3  15
+ENDBRANCH  13  14
+BRANCH  11   7
+ATOM      7  O2  ETQ  1200       4.892  25.712  23.911  0.00  0.00    +0.000 OA
+ATOM     12  C6  ETQ  1200       5.619  26.483  22.945  0.00  0.00    +0.000 C 
+ENDBRANCH  11   7
+BRANCH   5  22
+ATOM     22  C16 ETQ  1200       8.657  22.978  27.210  0.00  0.00    +0.000 C 
+ATOM     23  C17 ETQ  1200       9.506  22.024  26.367  0.00  0.00    +0.000 C 
+ENDBRANCH   5  22
+TORSDOF 6
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -7.2      4.959      7.717
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\drd3\drd3-lig.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N1_3  and  C9_15
+REMARK    2  A    between atoms: C2_5  and  C16_22
+REMARK    3  A    between atoms: N2_6  and  C14_20
+REMARK    4  A    between atoms: O2_7  and  C5_11
+REMARK    5  A    between atoms: C7_13  and  C8_14
+REMARK    6  A    between atoms: C9_15  and  C10_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CL1 ETQ  1200       5.933  24.299  22.878  0.00  0.00    +0.000 C 
+ATOM      2  C1  ETQ  1200       7.018  25.741  27.007  0.00  0.00    +0.000 A 
+ATOM      4  O1  ETQ  1200       7.337  26.167  28.258  0.00  0.00    +0.000 OA
+ATOM      5  C2  ETQ  1200       7.481  24.493  26.574  0.00  0.00    +0.000 A 
+ATOM      8  C3  ETQ  1200       7.123  24.051  25.299  0.00  0.00    +0.000 A 
+ATOM     10  C4  ETQ  1200       6.342  24.848  24.466  0.00  0.00    +0.000 A 
+ATOM     11  C5  ETQ  1200       5.903  26.100  24.893  0.00  0.00    +0.000 A 
+ATOM     13  C7  ETQ  1200       6.248  26.563  26.170  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  13  14
+ATOM      3  N1  ETQ  1200       4.713  27.865  27.561  0.00  0.00    +0.000 NA
+ATOM      9  O3  ETQ  1200       6.310  28.964  26.403  0.00  0.00    +0.000 OA
+ATOM     14  C8  ETQ  1200       5.740  27.920  26.709  0.00  0.00    +0.000 C 
+BRANCH   3  15
+ATOM     15  C9  ETQ  1200       4.119  29.058  28.198  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM      6  N2  ETQ  1200       2.151  27.603  27.879  0.00  0.00    +0.000 NA
+ATOM     16  C10 ETQ  1200       2.589  28.972  28.220  0.00  0.00    +0.000 C 
+ATOM     17  C11 ETQ  1200       2.084  29.247  29.634  0.00  0.00    +0.000 C 
+ATOM     18  C12 ETQ  1200       2.045  27.858  30.250  0.00  0.00    +0.000 C 
+ATOM     19  C13 ETQ  1200       1.541  27.014  29.089  0.00  0.00    +0.000 C 
+BRANCH   6  20
+ATOM     20  C14 ETQ  1200       1.151  27.679  26.804  0.00  0.00    +0.000 C 
+ATOM     21  C15 ETQ  1200       1.295  28.990  26.044  0.00  0.00    +0.000 C 
+ENDBRANCH   6  20
+ENDBRANCH  15  16
+ENDBRANCH   3  15
+ENDBRANCH  13  14
+BRANCH  11   7
+ATOM      7  O2  ETQ  1200       5.165  26.859  24.041  0.00  0.00    +0.000 OA
+ATOM     12  C6  ETQ  1200       3.775  26.650  24.324  0.00  0.00    +0.000 C 
+ENDBRANCH  11   7
+BRANCH   5  22
+ATOM     22  C16 ETQ  1200       8.306  23.522  27.437  0.00  0.00    +0.000 C 
+ATOM     23  C17 ETQ  1200       9.073  22.494  26.601  0.00  0.00    +0.000 C 
+ENDBRANCH   5  22
+TORSDOF 6
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -7.1      1.951      6.850
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\drd3\drd3-lig.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N1_3  and  C9_15
+REMARK    2  A    between atoms: C2_5  and  C16_22
+REMARK    3  A    between atoms: N2_6  and  C14_20
+REMARK    4  A    between atoms: O2_7  and  C5_11
+REMARK    5  A    between atoms: C7_13  and  C8_14
+REMARK    6  A    between atoms: C9_15  and  C10_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CL1 ETQ  1200       9.316  22.736  28.387  0.00  0.00    +0.000 C 
+ATOM      2  C1  ETQ  1200       7.134  23.923  24.628  0.00  0.00    +0.000 A 
+ATOM      4  O1  ETQ  1200       6.464  24.278  23.499  0.00  0.00    +0.000 OA
+ATOM      5  C2  ETQ  1200       7.019  24.726  25.768  0.00  0.00    +0.000 A 
+ATOM      8  C3  ETQ  1200       7.687  24.338  26.932  0.00  0.00    +0.000 A 
+ATOM     10  C4  ETQ  1200       8.471  23.187  26.947  0.00  0.00    +0.000 A 
+ATOM     11  C5  ETQ  1200       8.600  22.403  25.802  0.00  0.00    +0.000 A 
+ATOM     13  C7  ETQ  1200       7.937  22.773  24.624  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  13  14
+ATOM      3  N1  ETQ  1200       7.084  20.948  23.236  0.00  0.00    +0.000 NA
+ATOM      9  O3  ETQ  1200       8.831  22.155  22.469  0.00  0.00    +0.000 OA
+ATOM     14  C8  ETQ  1200       8.006  21.908  23.345  0.00  0.00    +0.000 C 
+BRANCH   3  15
+ATOM     15  C9  ETQ  1200       6.979  20.048  22.070  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM      6  N2  ETQ  1200       7.008  17.580  22.112  0.00  0.00    +0.000 NA
+ATOM     16  C10 ETQ  1200       7.839  18.793  22.258  0.00  0.00    +0.000 C 
+ATOM     17  C11 ETQ  1200       8.892  18.728  21.155  0.00  0.00    +0.000 C 
+ATOM     18  C12 ETQ  1200       8.190  17.932  20.068  0.00  0.00    +0.000 C 
+ATOM     19  C13 ETQ  1200       7.440  16.887  20.880  0.00  0.00    +0.000 C 
+BRANCH   6  20
+ATOM     20  C14 ETQ  1200       7.230  16.711  23.276  0.00  0.00    +0.000 C 
+ATOM     21  C15 ETQ  1200       6.431  15.424  23.133  0.00  0.00    +0.000 C 
+ENDBRANCH   6  20
+ENDBRANCH  15  16
+ENDBRANCH   3  15
+ENDBRANCH  13  14
+BRANCH  11   7
+ATOM      7  O2  ETQ  1200       9.396  21.302  25.850  0.00  0.00    +0.000 OA
+ATOM     12  C6  ETQ  1200      10.691  21.647  25.339  0.00  0.00    +0.000 C 
+ENDBRANCH  11   7
+BRANCH   5  22
+ATOM     22  C16 ETQ  1200       6.141  25.987  25.863  0.00  0.00    +0.000 C 
+ATOM     23  C17 ETQ  1200       6.675  27.006  26.873  0.00  0.00    +0.000 C 
+ENDBRANCH   5  22
+TORSDOF 6
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -6.9      4.935      9.194
+REMARK  Name = C:\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\drd3\drd3-lig.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N1_3  and  C9_15
+REMARK    2  A    between atoms: C2_5  and  C16_22
+REMARK    3  A    between atoms: N2_6  and  C14_20
+REMARK    4  A    between atoms: O2_7  and  C5_11
+REMARK    5  A    between atoms: C7_13  and  C8_14
+REMARK    6  A    between atoms: C9_15  and  C10_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CL1 ETQ  1200       3.905  26.996  30.754  0.00  0.00    +0.000 C 
+ATOM      2  C1  ETQ  1200       1.522  26.676  26.943  0.00  0.00    +0.000 A 
+ATOM      4  O1  ETQ  1200       0.801  26.567  25.796  0.00  0.00    +0.000 OA
+ATOM      5  C2  ETQ  1200       0.852  26.669  28.172  0.00  0.00    +0.000 A 
+ATOM      8  C3  ETQ  1200       1.604  26.752  29.346  0.00  0.00    +0.000 A 
+ATOM     10  C4  ETQ  1200       2.991  26.864  29.293  0.00  0.00    +0.000 A 
+ATOM     11  C5  ETQ  1200       3.652  26.893  28.066  0.00  0.00    +0.000 A 
+ATOM     13  C7  ETQ  1200       2.917  26.809  26.875  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  13  14
+ATOM      3  N1  ETQ  1200       3.988  25.581  25.049  0.00  0.00    +0.000 NA
+ATOM      9  O3  ETQ  1200       3.728  27.814  24.836  0.00  0.00    +0.000 OA
+ATOM     14  C8  ETQ  1200       3.608  26.782  25.492  0.00  0.00    +0.000 C 
+BRANCH   3  15
+ATOM     15  C9  ETQ  1200       4.634  25.363  23.739  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM      6  N2  ETQ  1200       6.473  24.303  25.000  0.00  0.00    +0.000 NA
+ATOM     16  C10 ETQ  1200       6.153  25.219  23.885  0.00  0.00    +0.000 C 
+ATOM     17  C11 ETQ  1200       6.727  24.580  22.624  0.00  0.00    +0.000 C 
+ATOM     18  C12 ETQ  1200       6.682  23.096  22.951  0.00  0.00    +0.000 C 
+ATOM     19  C13 ETQ  1200       7.078  23.086  24.419  0.00  0.00    +0.000 C 
+BRANCH   6  20
+ATOM     20  C14 ETQ  1200       7.436  24.961  25.893  0.00  0.00    +0.000 C 
+ATOM     21  C15 ETQ  1200       7.486  26.454  25.604  0.00  0.00    +0.000 C 
+ENDBRANCH   6  20
+ENDBRANCH  15  16
+ENDBRANCH   3  15
+ENDBRANCH  13  14
+BRANCH  11   7
+ATOM      7  O2  ETQ  1200       5.004  27.029  28.054  0.00  0.00    +0.000 OA
+ATOM     12  C6  ETQ  1200       5.325  28.421  27.930  0.00  0.00    +0.000 C 
+ENDBRANCH  11   7
+BRANCH   5  22
+ATOM     22  C16 ETQ  1200      -0.669  26.502  28.335  0.00  0.00    +0.000 C 
+ATOM     23  C17 ETQ  1200      -1.069  26.075  29.750  0.00  0.00    +0.000 C 
+ENDBRANCH   5  22
+TORSDOF 6
+ENDMDL

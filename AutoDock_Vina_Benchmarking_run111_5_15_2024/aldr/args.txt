@@ -1,0 +1,16 @@
+receptor =  "\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\aldr\receptor.pdbqt"
+ligand = "\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\aldr\ligand.pdbqt" 
+
+center_x =  15
+center_y =  -7
+center_z = 14
+
+size_x = 20
+size_y = 20
+size_z = 20
+
+out = "\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\aldr\output.pdbqt"
+
+log = "\Users\Ari\Box Sync\Thyme Lab\AutoDock Vina Benchmarking\aldr\log.txt"
+
+exhaustiveness = 100

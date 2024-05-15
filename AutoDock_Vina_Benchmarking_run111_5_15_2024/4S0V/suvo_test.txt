@@ -1,0 +1,12 @@
+receptor =  4s0v_receptor_only.pdbqt
+ligand = suvorexant.pdbqt 
+
+center_x =  49
+center_y =  5
+center_z = 49
+
+size_x = 20
+size_y = 20
+size_z = 20
+
+out = \Users\Ari\Downloads\suvo_output.pdbqt

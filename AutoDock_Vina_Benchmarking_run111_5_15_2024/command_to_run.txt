@@ -1,0 +1,2 @@
+#run this to compare the best identified rmsds of all ligand placements between methods
+python compare_rmsds_between_methods.py  rmsd_total.txt final_rmsd.txt
